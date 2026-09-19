@@ -1,14 +1,28 @@
 # ndsjurismd
 
 Maschinenlesbare Markdown-Fassungen zentraler Rechtsgrundlagen für die kommunale
-Arbeit von Ratsmitgliedern. Die Texte werden automatisiert aus offiziellen bzw.
-staatlich bereitgestellten Rechtsquellen aufbereitet.
+Arbeit von Ratsmitgliedern in Niedersachsen. Die Texte werden automatisiert aus
+offiziellen bzw. staatlich bereitgestellten Rechtsquellen aufbereitet.
 
-## Enthaltene Rechtsvorschriften
+## Kommunalverfassung und Wahlrecht
 
 - [Niedersächsisches Kommunalverfassungsgesetz – NKomVG](NKomVG.md)
 - [Niedersächsisches Kommunalwahlgesetz – NKWG](NKWG.md)
 - [Niedersächsische Kommunalwahlordnung – NKWO](NKWO.md)
+
+## Haushalt und Abgaben
+
+- [Kommunalhaushalts- und -kassenverordnung – KomHKVO](KomHKVO.md)
+- [Niedersächsisches Kommunalabgabengesetz – NKAG](NKAG.md)
+
+## Bau- und Planungsrecht
+
+- [Baugesetzbuch – BauGB](BauGB.md)
+- [Baunutzungsverordnung – BauNVO](BauNVO.md)
+- [Niedersächsische Bauordnung – NBauO](NBauO.md)
+
+## Verfassungsrecht
+
 - [Grundgesetz – GG](GG.md)
 
 ## Hinweis
