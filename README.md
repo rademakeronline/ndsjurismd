@@ -39,6 +39,24 @@ offiziellen bzw. staatlich bereitgestellten Rechtsquellen aufbereitet.
 - [Niedersächsisches Polizei- und Ordnungsbehördengesetz – NPOG](NPOG.md)
 - [Niedersächsisches Tariftreue- und Vergabegesetz – NTVergG](NTVergG.md)
 
+## Wasser und Naturschutz
+
+- [Wasserhaushaltsgesetz – WHG](WHG.md)
+- [Niedersächsisches Wassergesetz – NWG](NWG.md)
+- [Bundesnaturschutzgesetz – BNatSchG](BNatSchG.md)
+- [Niedersächsisches Naturschutzgesetz – NNatSchG](NNatSchG.md)
+
+## Straßenverkehr
+
+- [Straßenverkehrsgesetz – StVG](StVG.md)
+- [Straßenverkehrs-Ordnung – StVO](StVO.md)
+
+## Raumordnung und Planzeichen
+
+- [Raumordnungsgesetz – ROG](ROG.md)
+- [Niedersächsisches Raumordnungsgesetz – NROG](NROG.md)
+- [Planzeichenverordnung – PlanZV](PlanZV.md)
+
 ## Verfassungsrecht
 
 - [Grundgesetz – GG](GG.md)
@@ -48,8 +66,9 @@ offiziellen bzw. staatlich bereitgestellten Rechtsquellen aufbereitet.
 Nichtamtliche technische Aufbereitungen. Maßgeblich ist die jeweils amtlich
 verkündete Fassung. Veröffentlicht wird die vom letzten erfolgreichen Abruf als
 aktuell geltend erkannte Fassung; Quellen und Gültigkeit stehen in jeder Datei.
-PDF-Formulare und Karten sind extern verlinkt. Die Formelgrafik in § 35 NKiTaG
-ist als externe Originalgrafik eingebunden. Diese Inhalte sind nicht als
+PDF-Formulare und Karten sind extern verlinkt. Grafische Normbestandteile
+(etwa Formeln, Karten, Verkehrs- und Planzeichen) sind als externe Originalgrafiken
+eingebunden und benötigen beim Anzeigen eine Netzverbindung. Diese Inhalte sind nicht als
 maschinenlesbarer Text enthalten.
 Ältere veröffentlichte Stände sind über die Git-Historie zugänglich.
 
