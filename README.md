@@ -10,16 +10,25 @@ offiziellen bzw. staatlich bereitgestellten Rechtsquellen aufbereitet.
 - [Niedersächsisches Kommunalwahlgesetz – NKWG](NKWG.md)
 - [Niedersächsische Kommunalwahlordnung – NKWO](NKWO.md)
 
-## Haushalt und Abgaben
+## Haushalt, Abgaben und Finanzausgleich
 
 - [Kommunalhaushalts- und -kassenverordnung – KomHKVO](KomHKVO.md)
 - [Niedersächsisches Kommunalabgabengesetz – NKAG](NKAG.md)
+- [Niedersächsisches Gesetz über den Finanzausgleich – NFAG](NFAG.md)
 
 ## Bau- und Planungsrecht
 
 - [Baugesetzbuch – BauGB](BauGB.md)
 - [Baunutzungsverordnung – BauNVO](BauNVO.md)
 - [Niedersächsische Bauordnung – NBauO](NBauO.md)
+
+## Straßen und Infrastruktur
+
+- [Niedersächsisches Straßengesetz – NStrG](NStrG.md)
+
+## Kommunale Zusammenarbeit
+
+- [Niedersächsisches Gesetz über die kommunale Zusammenarbeit – NKomZG](NKomZG.md)
 
 ## Verfassungsrecht
 
