@@ -30,6 +30,15 @@ offiziellen bzw. staatlich bereitgestellten Rechtsquellen aufbereitet.
 
 - [Niedersächsisches Gesetz über die kommunale Zusammenarbeit – NKomZG](NKomZG.md)
 
+## Kommunale Fachaufgaben
+
+- [Niedersächsisches Brandschutzgesetz – NBrandSchG](NBrandSchG.md)
+- [Kindertagesstätten und Kindertagespflege – NKiTaG](NKiTaG.md)
+- [Niedersächsisches Schulgesetz – NSchG](NSchG.md)
+- [Niedersächsisches Datenschutzgesetz – NDSG](NDSG.md)
+- [Niedersächsisches Polizei- und Ordnungsbehördengesetz – NPOG](NPOG.md)
+- [Niedersächsisches Tariftreue- und Vergabegesetz – NTVergG](NTVergG.md)
+
 ## Verfassungsrecht
 
 - [Grundgesetz – GG](GG.md)
@@ -39,7 +48,9 @@ offiziellen bzw. staatlich bereitgestellten Rechtsquellen aufbereitet.
 Nichtamtliche technische Aufbereitungen. Maßgeblich ist die jeweils amtlich
 verkündete Fassung. Veröffentlicht wird die vom letzten erfolgreichen Abruf als
 aktuell geltend erkannte Fassung; Quellen und Gültigkeit stehen in jeder Datei.
-PDF-Formularanlagen sind extern verlinkt, ihr Inhalt ist nicht im Markdown enthalten.
+PDF-Formulare und Karten sind extern verlinkt. Die Formelgrafik in § 35 NKiTaG
+ist als externe Originalgrafik eingebunden. Diese Inhalte sind nicht als
+maschinenlesbarer Text enthalten.
 Ältere veröffentlichte Stände sind über die Git-Historie zugänglich.
 
 ## Generierung
