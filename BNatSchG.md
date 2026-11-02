@@ -12,11 +12,11 @@ validity_basis: provider_current_consolidation; effective_date_not_supplied
 source_provider: Gesetze im Internet
 source_format: xml
 source_url: https://www.gesetze-im-internet.de/bnatschg_2009/xml.zip
-source_sha256: f4b280b34fadbf1513c3b46880cb199ccaa1c33a88693119ac718ca452ba5bb8
+source_sha256: bb5d3b7c574239ec2f6d28022957d5639582f9f4f1e5cae1724c4f703e59f498
 source_hash_scope: gii-c14n-with-images-v1
 source_document_id: BJNR254210009
 issued_on: '2009-07-29'
-source_update_note: Zuletzt geändert durch Art. 2 G v. 29.3.2026 I Nr. 87
+source_update_note: Zuletzt geändert durch Art. 2 G v. 30.9.2026 I Nr. 286
 future_versions: not_provided_by_source
 source_images:
 - source_url: https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2022/j1362-1_0030.jpg
@@ -39,7 +39,7 @@ source_images:
 
 ## Inhaltsübersicht
 
-- [Inhaltsübersicht](#norm-d368c3b32888b04b315b)
+- [Inhaltsübersicht](#norm-49d00b5e51814f3152f0)
 - [Kapitel 1 Allgemeine Vorschriften](#norm-b4f902bb96fd3ab3ef54)
   - [§ 1 Ziele des Naturschutzes und der Landschaftspflege](#norm-a845120f5e8958de0bb8)
   - [§ 2 Verwirklichung der Ziele](#norm-92fa5177e5e34d637498)
@@ -133,7 +133,7 @@ source_images:
   - [§ 62 Bereitstellen von Grundstücken](#norm-28c2c132f967a4075c2c)
 - [Kapitel 8 Mitwirkung von anerkannten Naturschutzvereinigungen](#norm-542528737a399f36c38f)
   - [§ 63 Mitwirkungsrechte](#norm-a8aaef38b605cb343e6a)
-  - [§ 64 Rechtsbehelfe](#norm-23761f3e80f72fd752cf)
+  - [§ 64 (weggefallen)](#norm-63622e3a2f0c8819e6a1)
 - [Kapitel 9 Eigentumsbindung, Befreiungen](#norm-f0cfc3a017001417136e)
   - [§ 65 Duldungspflicht](#norm-56c2d555702c3510186f)
   - [§ 66 Vorkaufsrecht](#norm-7b3b83ead6a31dbdaef1)
@@ -147,11 +147,11 @@ source_images:
   - [§ 72 Einziehung](#norm-33fb0ef8de4dfb812b90)
   - [§ 73 Befugnisse der Zollbehörden](#norm-9a84e29bdc12ad4b90e9)
 - [Kapitel 11 Übergangs- und Überleitungsvorschrift](#norm-42a6b63f4dd32ac669aa)
-  - [§ 74 Übergangs- und Überleitungsregelungen; Evaluierung](#norm-bb7b54cd94d2cf2e929d)
+  - [§ 74 Übergangs- und Überleitungsregelungen; Evaluierung](#norm-efe5b2434bc4a2e2be45)
   - [Anlage 1 (zu § 45b Absatz 1 bis 5)](#norm-4540aff79364daa7db74)
   - [Anlage 2 (zu § 45b Absatz 6 und 9, zu § 45d Absatz 2)](#norm-3699121b4587e6ab9116)
 
-<a id="norm-d368c3b32888b04b315b"></a>
+<a id="norm-49d00b5e51814f3152f0"></a>
 
 ## Inhaltsübersicht
 
@@ -245,7 +245,7 @@ Kapitel 8
 
 Mitwirkung von anerkannten<br> Naturschutzvereinigungen
 
-<table><tr><td>§ 63</td><td>Mitwirkungsrechte</td></tr><tr><td>§ 64</td><td>Rechtsbehelfe</td></tr></table>
+<table><tr><td>§ 63</td><td>Mitwirkungsrechte</td></tr><tr><td>§ 64</td><td>(weggefallen)</td></tr></table>
 
 Kapitel 9
 
@@ -1553,17 +1553,9 @@ soweit sie durch das Vorhaben in ihrem satzungsgemäßen Aufgabenbereich berühr
 
 (4) Die Länder können bestimmen, dass in Fällen, in denen Auswirkungen auf Natur und Landschaft nicht oder nur im geringfügigen Umfang zu erwarten sind, von einer Mitwirkung abgesehen werden kann.
 
-<a id="norm-23761f3e80f72fd752cf"></a>
+<a id="norm-63622e3a2f0c8819e6a1"></a>
 
-### § 64 Rechtsbehelfe
-
-(1) Eine anerkannte Naturschutzvereinigung kann, soweit § 1 Absatz 3 des Umwelt-Rechtsbehelfsgesetzes nicht entgegensteht, ohne in eigenen Rechten verletzt zu sein, Rechtsbehelfe nach Maßgabe der Verwaltungsgerichtsordnung einlegen gegen Entscheidungen nach § 63 Absatz 1 Nummer 2 bis 4 und Absatz 2 Nummer 4a bis 7, wenn die Vereinigung
-
-<dl><dt>1.</dt><dd><p>geltend macht, dass die Entscheidung Vorschriften dieses Gesetzes, Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen worden sind oder fortgelten, Naturschutzrecht der Länder oder anderen Rechtsvorschriften, die bei der Entscheidung zu beachten und zumindest auch den Belangen des Naturschutzes und der Landschaftspflege zu dienen bestimmt sind, widerspricht,</p></dd><dt>2.</dt><dd><p>in ihrem satzungsgemäßen Aufgaben- und Tätigkeitsbereich, soweit sich die Anerkennung darauf bezieht, berührt wird und</p></dd><dt>3.</dt><dd><p>zur Mitwirkung nach § 63 Absatz 1 Nummer 2 oder Absatz 2 Nummer 4a bis 5 berechtigt war und sie sich hierbei in der Sache geäußert hat oder ihr keine Gelegenheit zur Äußerung gegeben worden ist; dies gilt auch für die Mitwirkung nach § 63 Absatz 1 Nummer 3 und Absatz 2 Nummer 6, sofern für ein solches Planfeststellungsverfahren eine Anwendung des Bundesnaturschutzgesetzes nicht nach § 1 Absatz 3 des Umwelt-Rechtsbehelfsgesetzes ausgeschlossen ist.</p></dd></dl>
-
-(2) § 1 Absatz 1 Satz 3 und 4, § 2 Absatz 3 Satz 1 und § 5 des Umwelt-Rechtsbehelfsgesetzes gelten entsprechend.
-
-(3) Die Länder können Rechtsbehelfe von anerkannten Naturschutzvereinigungen auch in anderen Fällen zulassen, in denen nach § 63 Absatz 2 Nummer 8 eine Mitwirkung vorgesehen ist.
+### § 64 (weggefallen)
 
 <a id="norm-f0cfc3a017001417136e"></a>
 
@@ -1723,7 +1715,7 @@ Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können im Rahm
 
 ## Kapitel 11 Übergangs- und Überleitungsvorschrift
 
-<a id="norm-bb7b54cd94d2cf2e929d"></a>
+<a id="norm-efe5b2434bc4a2e2be45"></a>
 
 ### § 74 Übergangs- und Überleitungsregelungen; Evaluierung
 
@@ -1733,7 +1725,7 @@ Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können im Rahm
 
 (2) Vor dem 3. April 2002 begonnene Verwaltungsverfahren sind nach § 29 des Bundesnaturschutzgesetzes in der bis zu diesem Tag geltenden Fassung zu Ende zu führen. Vor dem 1. März 2010 begonnene Verwaltungsverfahren sind nach § 58 des Bundesnaturschutzgesetzes in der bis zu diesem Tag geltenden Fassung zu Ende zu führen.
 
-(3) Die §§ 63 und 64 gelten auch für Vereine, die nach § 29 des Bundesnaturschutzgesetzes in der bis zum 3. April 2002 geltenden Fassung oder nach § 59 oder im Rahmen von § 60 Absatz 1 und 3 des Bundesnaturschutzgesetzes in der bis zum 1. März 2010 geltenden Fassung vom Bund oder den Ländern anerkannt worden sind.
+(3) (weggefallen)
 
 (4) § 45b Absatz 1 bis 6 sind nicht anzuwenden auf bereits genehmigte Vorhaben zur Errichtung und zum Betrieb von Windenergieanlagen an Land sowie auf solche Vorhaben,
 

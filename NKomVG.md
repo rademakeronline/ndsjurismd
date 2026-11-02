@@ -5,14 +5,14 @@ title: Niedersächsisches Kommunalverfassungsgesetz
 abbreviation: NKomVG
 jurisdiction: DE-NI
 document_type: law
-valid_from: '2026-05-07'
-valid_until: '2026-10-31'
+valid_from: '2026-11-01'
+valid_until: null
 status: current
 validity_basis: source_interval
 source_provider: NI-VORIS
 source_format: html
-source_url: https://voris.wolterskluwer-online.de/browse/document/ef43f33c-e3d3-3ffd-99ad-c8b008cdee38
-source_sha256: b7037e8fbab4870b8b91daacd8e9b2c2fd5c4043cfa044824a7eb380d19ad408
+source_url: https://voris.wolterskluwer-online.de/browse/document/f0e5a51c-8827-33a6-907e-3994202d691b
+source_sha256: df1924dffd9d6feddc91f399e95f4fb2e9a20f2120fdbaa28ce003996ebee701
 source_hash_scope: normalized-units-v1
 ---
 
@@ -238,7 +238,7 @@ source_hash_scope: normalized-units-v1
 
 Vom 17. Dezember 2010 (Nds. GVBl. S. 576 - VORIS 20300 -)
 
-Zuletzt geändert durch Artikel 3 des Gesetzes vom 28. April 2026 (Nds. GVBl. 2026 Nr. 30)
+Zuletzt geändert durch Artikel 1 des Gesetzes vom 9. September 2026 (Nds. GVBl. 2026 Nr. 77)
 
 <a id="norm-5693c8c194b099c614b6"></a>
 
@@ -320,7 +320,7 @@ Zuletzt geändert durch Artikel 3 des Gesetzes vom 28. April 2026 (Nds. GVBl. 20
 
 (1) <sup>1</sup>Kommunen, die nicht Mitgliedsgemeinden von Samtgemeinden sind, haben eine Gleichstellungsbeauftragte zu bestellen. <sup>2</sup>Die Gleichstellungsbeauftragten der Gemeinden und Samtgemeinden mit mehr als 20 000 Einwohnerinnen und Einwohnern, der Landkreise und der Region Hannover sind hauptberuflich mit mindestens der Hälfte der regelmäßigen Arbeitszeit zu beschäftigen.
 
-(2) <sup>1</sup>Die Vertretung entscheidet über die Berufung und Abberufung der hauptberuflich beschäftigten Gleichstellungsbeauftragten; für die Abberufung ist die Mehrheit der Mitglieder der Vertretung erforderlich. <sup>2</sup>Betreffen die in § 107 Abs. 4 Satz 1 Halbsatz 1 und Satz 2 Halbsatz 1 genannten Beschlüsse Beschäftigte, die das Amt der Gleichstellungsbeauftragten hauptberuflich innehaben oder hierfür vorgesehen sind, so ist ausschließlich die Vertretung zuständig. <sup>3</sup>Der Hauptausschuss kann eine ständige Stellvertreterin der hauptberuflich beschäftigten Gleichstellungsbeauftragten bestellen; die Bestellung weiterer Stellvertreterinnen ist für abgegrenzte Aufgabenbereiche zulässig. <sup>4</sup>Die Gleichstellungsbeauftragte soll vor der Bestellung gehört werden. <sup>5</sup>Ist eine ständige Stellvertreterin nicht bestellt, so soll der Hauptausschuss eine andere Beschäftigte mit der Wahrnehmung der Geschäfte beauftragen, wenn die Gleichstellungsbeauftragte voraussichtlich länger als sechs Wochen an der Ausübung ihres Amtes gehindert ist; die Amtszeit der vorübergehenden Stellvertreterin endet zu dem Zeitpunkt, an dem die Gleichstellungsbeauftragte ihre Tätigkeit wieder aufnimmt.
+(2) <sup>1</sup>Die Vertretung entscheidet über die Berufung und Abberufung der hauptberuflich beschäftigten Gleichstellungsbeauftragten; für die Abberufung ist eine Zweidrittelmehrheit der Mitglieder der Vertretung erforderlich. <sup>2</sup>Betreffen die in § 107 Abs. 4 Satz 1 Halbsatz 1 und Satz 2 Halbsatz 1 genannten Beschlüsse Beschäftigte, die das Amt der Gleichstellungsbeauftragten hauptberuflich innehaben oder hierfür vorgesehen sind, so ist ausschließlich die Vertretung zuständig. <sup>3</sup>Der Hauptausschuss kann eine ständige Stellvertreterin der hauptberuflich beschäftigten Gleichstellungsbeauftragten bestellen; die Bestellung weiterer Stellvertreterinnen ist für abgegrenzte Aufgabenbereiche zulässig. <sup>4</sup>Die Gleichstellungsbeauftragte soll vor der Bestellung gehört werden. <sup>5</sup>Ist eine ständige Stellvertreterin nicht bestellt, so soll der Hauptausschuss eine andere Beschäftigte mit der Wahrnehmung der Geschäfte beauftragen, wenn die Gleichstellungsbeauftragte voraussichtlich länger als sechs Wochen an der Ausübung ihres Amtes gehindert ist; die Amtszeit der vorübergehenden Stellvertreterin endet zu dem Zeitpunkt, an dem die Gleichstellungsbeauftragte ihre Tätigkeit wieder aufnimmt.
 
 (3) In Samtgemeinden und in Gemeinden, in denen die Gleichstellungsbeauftragte nicht hauptberuflich tätig ist, regelt die Vertretung durch Satzung die Berufung und Abberufung der Gleichstellungsbeauftragten sowie deren Stellvertretung; die Regelungen sollen dem Absatz 2 entsprechen.
 
@@ -662,7 +662,21 @@ der nach § 48 in der Kommune wahlberechtigten Einwohnerinnen und Einwohner unte
 
 ### § 36 NKomVG - Beteiligung von Kindern und Jugendlichen
 
-<sup>1</sup>Gemeinden und Samtgemeinden sollen Kinder und Jugendliche bei Planungen und Vorhaben, die deren Interessen berühren, in angemessener Weise beteiligen. <sup>2</sup>Hierzu sollen die Gemeinden und Samtgemeinden über die in diesem Gesetz vorgesehene Beteiligung der Einwohnerinnen und Einwohner hinaus geeignete Verfahren entwickeln und durchführen.
+(1) <sup>1</sup>Gemeinden und Samtgemeinden sollen Kinder und Jugendliche im Sinne des § 7 Abs. 1 Nrn. 1 und 2 des Achten Buchs des Sozialgesetzbuchs (SGB VIII) bei Planungen und Vorhaben, die deren Interessen berühren, in angemessener und altersgemäßer Weise beteiligen. <sup>2</sup>Eine solche Beteiligung kann dabei insbesondere durch die Einrichtung von Jugendbeteiligungsgremien, offene direkte Beteiligungsformate oder anlassbezogen erfolgen. <sup>3</sup>Die nach Satz 1 zu Beteiligenden wirken bei der Auswahl und Entwicklung der Beteiligungsverfahren mit.
+
+(2) <sup>1</sup>Jugendliche können die Einrichtung eines Jugendbeteiligungsgremiums verlangen. <sup>2</sup>Das Verlangen muss
+
+in Gemeinden oder Samtgemeinden mit bis zu 20 000 Einwohnerinnen und Einwohnern von 20,
+
+in Gemeinden oder Samtgemeinden mit bis zu 50 000 Einwohnerinnen und Einwohnern von 50,
+
+in Gemeinden oder Samtgemeinden mit bis zu 200 000 Einwohnerinnen und Einwohnern von 150,
+
+in Gemeinden oder Samtgemeinden mit über 200 000 Einwohnerinnen und Einwohnern von 250
+
+Jugendlichen unterzeichnet sein, die Einwohnerinnen oder Einwohner der Gemeinde oder Samtgemeinde sind. <sup>3</sup>Im Verlangen sind bis zu drei Personen zu benennen, die berechtigt sind, die unterzeichnenden Jugendlichen zu vertreten. <sup>4</sup>Die Vertretung hat innerhalb von drei Monaten nach Eingang eines Verlangens, das die Voraussetzungen des Satzes 2 erfüllt, in ihrer Geschäftsordnung Bestimmungen insbesondere über die Bildung und die Arbeitsweise des Gremiums sowie über die Rechte seiner Mitglieder in den Sitzungen des Gremiums, der Vertretung und ihren Ausschüssen zu treffen. <sup>5</sup>Sie hat dazu die im Verlangen benannten Vertreterinnen und Vertreter der Jugendlichen zu hören.
+
+(3) <sup>1</sup>Ist ein Jugendbeteiligungsgremium eingerichtet worden, so erfolgt die Beteiligung nach Absatz 1 Satz 1 über dieses Gremium. <sup>2</sup>Die Mitglieder des Jugendbeteiligungsgremiums sind ehrenamtlich tätig.
 
 <a id="norm-8a4b82b8aef0121c28c2"></a>
 
@@ -740,7 +754,7 @@ der nach § 48 in der Kommune wahlberechtigten Einwohnerinnen und Einwohner unte
 
 ### § 44 NKomVG - Entschädigung
 
-(1) <sup>1</sup>Wer ehrenamtlich tätig ist, hat Anspruch auf Ersatz seiner Auslagen, einschließlich der Aufwendungen für eine Kinderbetreuung, und seines nachgewiesenen Verdienstausfalls. <sup>2</sup>Bei Personen, die keinen Anspruch auf Verdienstausfall geltend machen können, kann die Entschädigung auch einen angemessenen Pauschalstundensatz als Ausgleich von besonderen Nachteilen im Bereich der Haushaltsführung oder im sonstigen beruflichen Bereich beinhalten, die durch die ehrenamtliche Tätigkeit entstehen. <sup>3</sup>Einzelheiten sind durch Satzung zu regeln. <sup>4</sup>In der Satzung sind die Ansprüche auf Höchstbeträge zu begrenzen.
+(1) <sup>1</sup>Wer ehrenamtlich tätig ist, hat Anspruch auf Ersatz seiner Auslagen, einschließlich der Aufwendungen für die Pflege oder Betreuung Angehöriger, und seines nachgewiesenen Verdienstausfalls. <sup>2</sup>Bei Personen, die keinen Anspruch auf Verdienstausfall geltend machen können, kann die Entschädigung auch einen angemessenen Pauschalstundensatz als Ausgleich von besonderen Nachteilen im Bereich der Haushaltsführung, der Pflege oder Betreuung Angehöriger oder im sonstigen beruflichen Bereich beinhalten, die durch die ehrenamtliche Tätigkeit entstehen. <sup>3</sup>Einzelheiten sind durch Satzung zu regeln. <sup>4</sup>In der Satzung sind die Ansprüche auf Höchstbeträge zu begrenzen.
 
 (2) <sup>1</sup>Ehrenamtlich Tätigen können angemessene Aufwandsentschädigungen nach Maßgabe einer Satzung gewährt werden. <sup>2</sup>Wird eine Aufwandsentschädigung gewährt, so besteht daneben kein Anspruch auf Ersatz der Auslagen, des Verdienstausfalls und des Pauschalstundensatzes; in der Satzung können für Fälle außergewöhnlicher Belastungen und für bestimmte Tätigkeiten, deren Ausmaß nicht voraussehbar ist, Ausnahmen zugelassen werden.
 
@@ -810,7 +824,7 @@ der nach § 48 in der Kommune wahlberechtigten Einwohnerinnen und Einwohner unte
 
 (1) <sup>1</sup>Zur Abgeordneten oder zum Abgeordneten sind Personen wählbar, die am Wahltag
 
-<dl><dt>1.</dt><dd><p>mindestens 18 Jahre alt sind,</p></dd><dt>2.</dt><dd><p>seit mindestens sechs Monaten im Gebiet der Kommune ihren Wohnsitz haben und</p></dd><dt>3.</dt><dd><p>Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes für die Bundesrepublik Deutschland oder Staatsangehörige eines anderen Mitgliedstaates der Europäischen Union sind.</p></dd></dl>
+<dl><dt>1.</dt><dd><p>mindestens 16 Jahre alt sind,</p></dd><dt>2.</dt><dd><p>seit mindestens sechs Monaten im Gebiet der Kommune ihren Wohnsitz haben und</p></dd><dt>3.</dt><dd><p>Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes für die Bundesrepublik Deutschland oder Staatsangehörige eines anderen Mitgliedstaates der Europäischen Union sind.</p></dd></dl>
 
 <sup>2</sup>§ 28 Abs. 1 Sätze 2 bis 5 und § 48 Abs. 1 Satz 2 gelten entsprechend.
 
@@ -869,6 +883,8 @@ der nach § 48 in der Kommune wahlberechtigten Einwohnerinnen und Einwohner unte
 <dl><dt>1.</dt><dd><p>einer Sitzung der Vertretung, des Hauptausschusses, eines Ausschusses, ihrer Fraktion oder Gruppe,</p></dd><dt>2.</dt><dd><p>einer Sitzung eines Organs oder Gremiums einer juristischen Person oder Vereinigung des öffentlichen oder privaten Rechts, in das sie von der Kommune gewählt, entsandt oder in sonstiger Form bestellt worden sind, oder</p></dd><dt>3.</dt><dd><p>einer Veranstaltung, für die die Vertretung die Teilnahme beschlossen hat oder zu der die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte die Abgeordneten eingeladen hat,</p></dd></dl>
 
 teilnehmen, soweit kein Anspruch auf Gewährung freier Zeit nach Satz 4 besteht und die Teilnahme in ihrem Arbeitszeitrahmen liegt. <sup>6</sup>Der Anspruch nach Satz 5 besteht nur, soweit die Summe aus der am Tag der Teilnahme geleisteten Arbeitszeit, der nach Satz 4 zu gewährenden Freistellungszeit und der nach Satz 5 zu berücksichtigenden Teilnahmezeit ein Fünftel der regelmäßigen wöchentlichen Arbeitszeit der oder des Abgeordneten nicht überschreitet. <sup>7</sup>Den Abgeordneten ist darüber hinaus in jeder Wahlperiode bis zu fünf Arbeitstage Urlaub zu gewähren, damit sie an Fortbildungsveranstaltungen teilnehmen können, die im Zusammenhang mit dem Amt der oder des Abgeordneten stehen. <sup>8</sup>Für die Zeit dieses Urlaubs haben die Abgeordneten gegen die Kommune Anspruch auf Ersatz des nachgewiesenen Verdienstausfalls bis zu einem durch Satzung festzulegenden Höchstbetrag. <sup>9</sup>Sind die Abgeordneten einer Gemeinde zugleich auch Abgeordnete einer Samtgemeinde, eines Landkreises oder der Region Hannover, so entsteht der Anspruch auf Urlaub nach Satz 7 in jeder Wahlperiode nur einmal.
+
+(2a) Mitglieder der Vertretung, die das 18. Lebensjahr noch nicht vollendet haben, sind hinsichtlich der Ausübung ihres Mandats handlungsfähig, soweit gesetzlich nichts anderes bestimmt ist.
 
 (3) Die Vorschriften der §§ 40, 41, 42 Abs. 1 Satz 2 und Abs. 2 sowie des § 43 sind auf die Abgeordneten anzuwenden.
 
@@ -956,7 +972,7 @@ teilnehmen, soweit kein Anspruch auf Gewährung freier Zeit nach Satz 4 besteht 
 
 #### § 62 NKomVG - Einwohnerfragestunde, Anhörung
 
-(1) Die Vertretung kann bei öffentlichen Sitzungen Einwohnerinnen und Einwohnern ermöglichen, Fragen zu Beratungsgegenständen und anderen Angelegenheiten der Kommune zu stellen.
+(1) Die Vertretung kann bei öffentlichen Sitzungen anwesenden Einwohnerinnen und Einwohnern ermöglichen, Fragen zu Beratungsgegenständen und anderen Angelegenheiten der Kommune zu stellen.
 
 (2) Die Vertretung kann beschließen, anwesende Sachverständige und anwesende Einwohnerinnen und Einwohner einschließlich der nach § 41 von der Mitwirkung ausgeschlossenen Personen zum Gegenstand der Beratung zu hören.
 
@@ -980,7 +996,7 @@ teilnehmen, soweit kein Anspruch auf Gewährung freier Zeit nach Satz 4 besteht 
 
 (2) <sup>1</sup>In öffentlichen Sitzungen sind Bildaufnahmen zulässig, wenn sie die Ordnung der Sitzung nicht gefährden. <sup>2</sup>Film- und Tonaufnahmen von den Mitgliedern der Vertretung mit dem Ziel der Berichterstattung sind in öffentlicher Sitzung nur zulässig, soweit die Hauptsatzung dies bestimmt. <sup>3</sup>Abgeordnete der Vertretung können verlangen, dass die Aufnahme ihres Redebeitrages oder die Veröffentlichung der Aufnahme unterbleibt.
 
-(3) <sup>1</sup>Die Abgeordneten mit Ausnahme der oder des Vorsitzenden der Vertretung können an den Sitzungen der Vertretung durch Zuschaltung per Videokonferenztechnik teilnehmen, soweit die Hauptsatzung dies zulässt. <sup>2</sup>Die Hauptsatzung kann dabei vorsehen, dass
+(3) <sup>1</sup>Die Abgeordneten mit Ausnahme der Sitzungsleitung können an den Sitzungen der Vertretung durch Zuschaltung per Videokonferenztechnik teilnehmen, soweit die Hauptsatzung dies zulässt. <sup>2</sup>Die Hauptsatzung kann dabei vorsehen, dass
 
 <dl><dt>1.</dt><dd><p>die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte im Benehmen mit der oder dem Vorsitzenden der Vertretung die Teilnahme durch Zuschaltung per Videokonferenztechnik in der Ladung zulassen kann oder</p></dd><dt>2.</dt><dd><p>die oder der Vorsitzende der Vertretung nach Herstellung des Benehmens mit der Hauptverwaltungsbeamtin oder dem Hauptverwaltungsbeamten verlangen kann, dass die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte die Teilnahme durch Zuschaltung per Videokonferenztechnik in der Ladung zulässt.</p></dd></dl>
 
@@ -996,7 +1012,7 @@ teilnehmen, soweit kein Anspruch auf Gewährung freier Zeit nach Satz 4 besteht 
 
 (8) Die Regelungen der Absätze 3 bis 7 gelten für Sitzungen des Hauptausschusses und der Ausschüsse entsprechend, soweit in der Hauptsatzung nichts anderes bestimmt ist.
 
-(9) Die Landesregierung berichtet dem Landtag bis zum 31. Dezember 2025 über die Erfahrungen mit den Regelungen der Absätze 3 bis 8.
+(9) <sup>1</sup>Die Öffentlichkeit kann die Sitzungen der Vertretung und der Ausschüsse der Vertretung per Videokonferenztechnik verfolgen, soweit die Hauptsatzung dies zulässt; für den Beschluss gilt Absatz 3 Satz 4 entsprechend. <sup>2</sup>Absatz 2 Satz 3 findet Anwendung, soweit dies technisch möglich ist und der Ablauf der Sitzung nach Absatz 4 dadurch nicht gestört wird.
 
 <a id="norm-c8d9d898a047f78c1b21"></a>
 
@@ -1056,7 +1072,7 @@ teilnehmen, soweit kein Anspruch auf Gewährung freier Zeit nach Satz 4 besteht 
 
 (1) Die Vertretung kann aus der Mitte der Abgeordneten beratende Ausschüsse bilden.
 
-(2) <sup>1</sup>Die Vertretung legt die Zahl der Sitze in den Ausschüssen fest. <sup>2</sup>Die Sitze eines jeden Ausschusses werden auf die Fraktionen und Gruppen nach der Reihenfolge der Höchstzahlen verteilt, die sich durch Teilung der Mitgliederzahlen der Fraktionen und Gruppen durch 1, 2, 3 usw. ergeben. <sup>3</sup>Über die Zuteilung übrig bleibender Sitze entscheidet bei gleichen Höchstzahlen das Los. <sup>4</sup>Das Los zieht die oder der Vorsitzende der Vertretung. <sup>5</sup>Die Fraktionen und Gruppen benennen die Mitglieder der Ausschüsse.
+(2) <sup>1</sup>Die Vertretung legt die Zahl der Sitze in den Ausschüssen fest. <sup>2</sup>Die Sitze eines jeden Ausschusses werden auf die Fraktionen und Gruppen im Verhältnis ihrer Stärke nach dem Verfahren nach Sainte-Laguë/Schepers in der Reihenfolge der absteigenden Höchstzahlen verteilt, die sich durch Teilung der Mitgliederzahlen der Fraktionen und Gruppen durch 0,5; 1,5; 2,5 usw. ergeben. <sup>3</sup>Ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das Los. <sup>4</sup>Das Los zieht die oder der Vorsitzende der Vertretung. <sup>5</sup>Die Fraktionen und Gruppen benennen die Mitglieder der Ausschüsse.
 
 (3) <sup>1</sup>Gehören einer Fraktion oder Gruppe mehr als die Hälfte der Abgeordneten an, so stehen ihr mehr als die Hälfte der im Ausschuss insgesamt zu vergebenden Sitze zu. <sup>2</sup>Ist dies nach Absatz 2 Sätze 2 bis 4 nicht gewährleistet, so wird zunächst der in Satz 1 genannten Fraktion oder Gruppe ein Sitz zugeteilt. <sup>3</sup>Für die danach noch zu vergebenden Sitze ist Absatz 2 Sätze 2 bis 4 anzuwenden.
 
@@ -1068,7 +1084,7 @@ teilnehmen, soweit kein Anspruch auf Gewährung freier Zeit nach Satz 4 besteht 
 
 (7) <sup>1</sup>Die Vertretung kann beschließen, dass neben Abgeordneten andere Personen, zum Beispiel Mitglieder von kommunalen Beiräten, jedoch nicht Beschäftigte der Kommune, Mitglieder der Ausschüsse nach Absatz 1 werden; die Absätze 2, 3, 5 und 10 sind entsprechend anzuwenden. <sup>2</sup>Mindestens zwei Drittel der Ausschussmitglieder sollen Abgeordnete sein. <sup>3</sup>Ausschussmitglieder, die nicht der Vertretung angehören, haben kein Stimmrecht. <sup>4</sup>Im Übrigen sind auf sie die §§ 54 und 55 anzuwenden; eine Entschädigung kann jedoch, soweit sie pauschal gewährt wird, nur als Sitzungsgeld gezahlt werden.
 
-(8) <sup>1</sup>Die Ausschussvorsitze werden den Fraktionen und Gruppen in der Reihenfolge der Höchstzahlen zugeteilt, die sich durch Teilung der Mitgliederzahlen der Fraktionen und Gruppen durch 1, 2, 3 usw. ergeben. <sup>2</sup>Bei gleichen Höchstzahlen entscheidet das Los. <sup>3</sup>Das Los zieht die oder der Vorsitzende der Vertretung. <sup>4</sup>Die Fraktionen und Gruppen benennen die Ausschüsse, deren Vorsitz sie beanspruchen, in der Reihenfolge der Höchstzahlen und bestimmen die Vorsitzenden aus der Mitte der Abgeordneten, die den Ausschüssen angehören.
+(8) <sup>1</sup>Für die Verteilung der Ausschussvorsitze auf die Fraktionen und Gruppen gilt Absatz 2 Sätze 2 bis 4 entsprechend. <sup>2</sup>Die Fraktionen und Gruppen benennen die Ausschüsse, deren Vorsitz sie beanspruchen, in der nach Satz 1 in Verbindung mit Absatz 2 Sätze 2 bis 4 ermittelten Reihenfolge und bestimmen die Vorsitzenden aus der Mitte der Abgeordneten, die den Ausschüssen angehören. <sup>3</sup>Ausschussvorsitzende können mit einer Mehrheit von zwei Dritteln der Mitglieder der Vertretung abberufen werden. <sup>4</sup>Im Fall der Abberufung einer oder eines Ausschussvorsitzenden bleibt das Recht der Fraktion oder Gruppe nach Satz 2, die oder den Vorsitzenden für diesen Ausschuss zu bestimmen, bestehen. <sup>5</sup>Die oder der abberufene Ausschussvorsitzende darf jedoch nicht erneut für den Ausschussvorsitz benannt werden.
 
 (9) <sup>1</sup>Ausschüsse können von der Vertretung jederzeit aufgelöst und neu gebildet werden. <sup>2</sup>Ein Ausschuss muss neu besetzt werden, wenn seine Zusammensetzung nicht mehr dem Verhältnis der Stärke der Fraktionen und Gruppen der Vertretung entspricht und ein Antrag auf Neubesetzung gestellt wird. <sup>3</sup>Fraktionen und Gruppen können von ihnen benannte Ausschussmitglieder
 
@@ -1192,7 +1208,7 @@ so kann sie auch beschließen, auf eine erforderliche Wahl der Hauptverwaltungsb
 
 (4) Gewählt werden kann, wer
 
-<dl><dt>1.</dt><dd><p>am Wahltag mindestens 23 Jahre, aber noch nicht 67 Jahre alt ist,</p></dd><dt>2.</dt><dd><p>nach § 49 Abs. 1 Satz 1 Nr. 3 wählbar und nicht nach § 49 Abs. 2 von der Wählbarkeit ausgeschlossen ist und</p></dd><dt>3.</dt><dd><p>die Gewähr dafür bietet, jederzeit für die freiheitlich demokratische Grundordnung im Sinne des Grundgesetzes für die Bundesrepublik Deutschland einzutreten.</p></dd></dl>
+<dl><dt>1.</dt><dd><p>am Wahltag mindestens 18 Jahre, aber noch nicht 67 Jahre alt ist,</p></dd><dt>2.</dt><dd><p>nach § 49 Abs. 1 Satz 1 Nr. 3 wählbar und nicht nach § 49 Abs. 2 von der Wählbarkeit ausgeschlossen ist und</p></dd><dt>3.</dt><dd><p>die Gewähr dafür bietet, jederzeit für die freiheitlich demokratische Grundordnung im Sinne des Grundgesetzes für die Bundesrepublik Deutschland einzutreten.</p></dd></dl>
 
 (5) <sup>1</sup>Die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte ist hauptamtlich tätig. <sup>2</sup>Sie oder er ist Beamtin oder Beamter auf Zeit. <sup>3</sup>Das Beamtenverhältnis wird mit dem Tag der Annahme der Wahl begründet, jedoch frühestens
 
@@ -1206,21 +1222,13 @@ so verlängert sich die Amtszeit der Amtsinhaberin oder des Amtsinhabers bis zur
 
 (6) <sup>1</sup>Ist eine Hauptverwaltungsbeamtin oder ein Hauptverwaltungsbeamter vor dem 1. Februar 2025 gewählt worden, so finden für die Begründung des Beamtenverhältnisses, die Dauer der Amtszeit und die Berechnung der Dienstzeit die am 31. Januar 2025 geltenden Vorschriften Anwendung. <sup>2</sup>Satz 1 gilt auch, wenn vor dem 1. Februar 2025 als Wahltag für eine Direktwahl ein Tag nach dem 1. Februar 2025 bestimmt worden ist; in diesem Fall sind auch für die Durchführung der Direktwahl die am 31. Januar 2025 geltenden Vorschriften anzuwenden.
 
-(7) (gestrichen)
-
-(8) (gestrichen)
-
-(9) (gestrichen)
-
-(10) <sup>1</sup>Läuft die Amtszeit einer Hauptverwaltungsbeamtin oder eines Hauptverwaltungsbeamten nach dem 31. Oktober 2026 ab, so kann sie oder er am 31. Oktober 2026 durch schriftliche Erklärung vorzeitig aus dem Amt ausscheiden. <sup>2</sup>Die Erklärung muss der Kommunalaufsichtsbehörde vor dem 1. April 2026 zugehen; sie kann vor Ablauf von zwei Wochen nach Zugang zurückgenommen werden. <sup>3</sup>Die Wahl der Nachfolgerin oder des Nachfolgers ist am allgemeinen Kommunalwahltag durchzuführen.
-
 <a id="norm-dbc098a95dda80b22785"></a>
 
 #### § 81 NKomVG - Vereidigung, Stellvertretung, Nebentätigkeiten
 
 (1) <sup>1</sup>Die Vereidigung der Hauptverwaltungsbeamtin oder des Hauptverwaltungsbeamten findet in der Sitzung der Vertretung statt, die auf die Begründung des Beamtenverhältnisses folgt. <sup>2</sup>Sie wird von einer ehrenamtlichen Stellvertreterin oder einem ehrenamtlichen Stellvertreter der Hauptverwaltungsbeamtin oder des Hauptverwaltungsbeamten durchgeführt.
 
-(2) <sup>1</sup>Die Vertretung wählt in ihrer ersten Sitzung aus den Beigeordneten bis zu drei ehrenamtliche Stellvertreterinnen oder Stellvertreter der Hauptverwaltungsbeamtin oder des Hauptverwaltungsbeamten, die sie oder ihn vertreten bei der repräsentativen Vertretung der Kommune, bei der Einberufung des Hauptausschusses einschließlich der Aufstellung der Tagesordnung, der Leitung der Sitzungen des Hauptausschusses und der Verpflichtung der Abgeordneten sowie ihrer Pflichtenbelehrung. <sup>2</sup>Soll es unter den Stellvertreterinnen und Stellvertretern eine Reihenfolge geben, so wird diese von der Vertretung bestimmt. <sup>3</sup>Die Stellvertreterinnen und Stellvertreter führen folgende Bezeichnungen:
+(2) <sup>1</sup>Die Vertretung wählt in ihrer ersten Sitzung aus den Beigeordneten bis zu fünf ehrenamtliche Stellvertreterinnen oder Stellvertreter der Hauptverwaltungsbeamtin oder des Hauptverwaltungsbeamten, die sie oder ihn vertreten bei der repräsentativen Vertretung der Kommune, bei der Einberufung des Hauptausschusses einschließlich der Aufstellung der Tagesordnung, der Leitung der Sitzungen des Hauptausschusses und der Verpflichtung der Abgeordneten sowie ihrer Pflichtenbelehrung. <sup>2</sup>Soll es unter den Stellvertreterinnen und Stellvertretern eine Reihenfolge geben, so wird diese von der Vertretung bestimmt. <sup>3</sup>Die Stellvertreterinnen und Stellvertreter führen folgende Bezeichnungen:
 
 <dl><dt>1.</dt><dd><p>in Gemeinden: stellvertretende Bürgermeisterin oder stellvertretender Bürgermeister,</p></dd><dt>2.</dt><dd><p>in kreisfreien und in großen selbständigen Städten: Bürgermeisterin oder Bürgermeister,</p></dd><dt>3.</dt><dd><p>in Samtgemeinden: stellvertretende Samtgemeindebürgermeisterin oder stellvertretender Samtgemeindebürgermeister,</p></dd><dt>4.</dt><dd><p>in Landkreisen: stellvertretende Landrätin oder stellvertretender Landrat,</p></dd><dt>5.</dt><dd><p>in der Region Hannover: stellvertretende Regionspräsidentin oder stellvertretender Regionspräsident.</p></dd></dl>
 
@@ -1338,7 +1346,7 @@ innehat. <sup>4</sup>Der Antrag ist bei der Kommunalaufsichtsbehörde zu stellen
 
 #### § 90 NKomVG - Einrichtung, Änderung und Aufhebung von Ortschaften und Stadtbezirken
 
-(1) <sup>1</sup>Gebietsteile einer Gemeinde, deren Einwohnerinnen und Einwohner eine engere Gemeinschaft bilden, können durch die Hauptsatzung zu Ortschaften bestimmt werden. <sup>2</sup>Die Hauptsatzung legt zugleich fest, ob Ortsräte gewählt oder Ortsvorsteherinnen oder Ortsvorsteher bestellt werden. <sup>3</sup>Satz 1 gilt nicht für Mitgliedsgemeinden von Samtgemeinden.
+(1) <sup>1</sup>Gebietsteile einer Gemeinde, deren Einwohnerinnen und Einwohner eine engere Gemeinschaft bilden, können durch die Hauptsatzung zu Ortschaften bestimmt werden. <sup>2</sup>Die Hauptsatzung legt zugleich fest, ob Ortsräte oder Ortsvorsteherinnen oder Ortsvorsteher gewählt werden. <sup>3</sup>Satz 1 gilt nicht für Mitgliedsgemeinden von Samtgemeinden.
 
 (2) <sup>1</sup>In kreisfreien Städten oder Städten mit mehr als 100.000 Einwohnerinnen und Einwohnern können durch die Hauptsatzung für das gesamte Stadtgebiet Stadtbezirke eingerichtet werden. <sup>2</sup>Die Hauptsatzung legt zugleich die Zahl der Stadtbezirke und ihre Grenzen fest. <sup>3</sup>Für jeden Stadtbezirk ist ein Stadtbezirksrat zu wählen.
 
@@ -1372,7 +1380,7 @@ innehat. <sup>4</sup>Der Antrag ist bei der Kommunalaufsichtsbehörde zu stellen
 
 #### § 92 NKomVG - Ortsbürgermeisterin oder Ortsbürgermeister, Bezirksbürgermeisterin oder Bezirksbürgermeister
 
-(1) <sup>1</sup>Der Ortsrat oder der Stadtbezirksrat wählt in seiner ersten Sitzung unter Leitung des am längsten dem Ortsrat oder dem Stadtbezirksrat angehörenden anwesenden und hierzu bereiten Mitglieds aus seiner Mitte für die Dauer der Wahlperiode die Vorsitzende oder den Vorsitzenden und deren oder dessen Stellvertretung; bei gleicher Dauer der Zugehörigkeit ist das Lebensalter entscheidend. <sup>2</sup>Die oder der Vorsitzende führt in Ortsräten die Bezeichnung Ortsbürgermeisterin oder Ortsbürgermeister und in Stadtbezirksräten die Bezeichnung Bezirksbürgermeisterin oder Bezirksbürgermeister.
+(1) <sup>1</sup>Der Ortsrat oder der Stadtbezirksrat wählt in seiner ersten Sitzung unter Leitung des am längsten dem Ortsrat oder dem Stadtbezirksrat angehörenden anwesenden und hierzu bereiten Mitglieds aus seiner Mitte für die Dauer der Wahlperiode die Vorsitzende oder den Vorsitzenden und deren oder dessen Stellvertretung; bei gleicher Dauer der Zugehörigkeit ist das Lebensalter entscheidend. <sup>2</sup>Zur oder zum Vorsitzenden oder zur Stellvertreterin oder zum Stellvertreter kann nur gewählt werden, wer das 18. Lebensjahr vollendet hat. <sup>3</sup>Die oder der Vorsitzende führt in Ortsräten die Bezeichnung Ortsbürgermeisterin oder Ortsbürgermeister und in Stadtbezirksräten die Bezeichnung Bezirksbürgermeisterin oder Bezirksbürgermeister.
 
 (2) <sup>1</sup>Die oder der Vorsitzende beruft den Stadtbezirksrat oder den Ortsrat ein; er ist unverzüglich einzuberufen, wenn die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte dies unter Angabe des Beratungsgegenstandes verlangt. <sup>2</sup>Die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte kann verlangen, dass ein bestimmter Beratungsgegenstand auf die Tagesordnung gesetzt wird.
 
@@ -1420,7 +1428,7 @@ innehat. <sup>4</sup>Der Antrag ist bei der Kommunalaufsichtsbehörde zu stellen
 
 #### § 96 NKomVG - Ortsvorsteherin oder Ortsvorsteher
 
-(1) <sup>1</sup>Der Rat bestimmt die Ortsvorsteherin oder den Ortsvorsteher für die Dauer der Wahlperiode aufgrund des Vorschlags der Fraktion, deren Mitglieder der Partei oder Wählergruppe angehören, die in der Ortschaft bei der Wahl der Ratsfrauen und Ratsherren die meisten Stimmen erhalten hat. <sup>2</sup>Für Ortschaften mit bis zu 150 Einwohnerinnen und Einwohnern kann in der Hauptsatzung ein von Satz 1 abweichendes Verfahren geregelt werden. <sup>3</sup>§ 95 Abs. 2 Satz 1 Halbsatz 2 und Abs. 3 gilt entsprechend. <sup>4</sup>Die Ortsvorsteherin oder der Ortsvorsteher hat die Belange der Ortschaft gegenüber den Organen der Gemeinde zur Geltung zu bringen und im Interesse einer bürgernahen Verwaltung Hilfsfunktionen für die Gemeindeverwaltung zu erfüllen. <sup>5</sup>Sie oder er kann in allen Angelegenheiten, die die Ortschaft betreffen, Vorschläge unterbreiten und von der Hauptverwaltungsbeamtin oder dem Hauptverwaltungsbeamten Auskünfte verlangen. <sup>6</sup>Für das Anhörungsrecht der Ortsvorsteherin oder des Ortsvorstehers gilt § 94 Abs. 1 Sätze 1 und 2 sowie Abs. 3 Satz 3 entsprechend. <sup>7</sup>Der Rat kann für die Ortsvorsteherin oder den Ortsvorsteher eine Stellvertreterin oder einen Stellvertreter bestimmen. <sup>8</sup>Einzelheiten regelt die Hauptsatzung.
+(1) <sup>1</sup>Die Fraktion, deren Mitglieder der Partei oder Wählergruppe angehören, die in der Ortschaft bei der Wahl der Ratsfrauen und Ratsherren die meisten Stimmen erhalten hat, schlägt dem Rat eine Person für das Amt der Ortsvorsteherin oder des Ortsvorstehers vor. <sup>2</sup>Die vorgeschlagene Person ist gewählt, wenn sie die Mehrheit der abgegebenen Stimmen erhält. <sup>3</sup>Ergibt sich im ersten Wahlgang nicht die erforderliche Mehrheit, so kann für den zweiten Wahlgang jede Fraktion einen Vorschlag machen. <sup>4</sup>Ergibt sich auch im zweiten Wahlgang nicht die nach Satz 2 erforderliche Mehrheit, so findet ein dritter Wahlgang statt. <sup>5</sup>Gewählt ist im dritten Wahlgang, wer die meisten gültigen Stimmen erhält; bei Stimmengleichheit entscheidet das von der oder dem Ratsvorsitzenden zu ziehende Los. <sup>6</sup>Zur Ortsvorsteherin oder zum Ortsvorsteher kann nur gewählt werden, wer das 18. Lebensjahr vollendet hat. <sup>7</sup>Für Ortschaften mit bis zu 150 Einwohnerinnen und Einwohnern kann in der Hauptsatzung ein von den Sätzen 1 bis 5 abweichendes Verfahren geregelt werden. <sup>8</sup>§ 95 Abs. 2 Satz 1 Halbsatz 2 und Abs. 3 gilt entsprechend. <sup>9</sup>Die Ortsvorsteherin oder der Ortsvorsteher hat die Belange der Ortschaft gegenüber den Organen der Gemeinde zur Geltung zu bringen und im Interesse einer bürgernahen Verwaltung Hilfsfunktionen für die Gemeindeverwaltung zu erfüllen. <sup>10</sup>Sie oder er kann in allen Angelegenheiten, die die Ortschaft betreffen, Vorschläge unterbreiten und von der Hauptverwaltungsbeamtin oder dem Hauptverwaltungsbeamten Auskünfte verlangen. <sup>11</sup>Für das Anhörungsrecht der Ortsvorsteherin oder des Ortsvorstehers gilt § 94 Abs. 1 Sätze 1 und 2 sowie Abs. 3 Satz 3 entsprechend. <sup>12</sup>Der Rat kann für die Ortsvorsteherin oder den Ortsvorsteher eine Stellvertreterin oder einen Stellvertreter bestimmen. <sup>13</sup>Einzelheiten regelt die Hauptsatzung.
 
 (2) Nach dem Ende der Wahlperiode führt die Ortsvorsteherin oder der Ortsvorsteher ihre oder seine Tätigkeit bis zur Neubestellung einer Ortsvorsteherin oder eines Ortsvorstehers fort.
 
@@ -1542,7 +1550,7 @@ der nachfolgenden allgemeinen Wahlperiode gebildet werden. <sup>2</sup>Der Zeitp
 
 #### § 105 NKomVG - Bürgermeisterin oder Bürgermeister
 
-(1) <sup>1</sup>In seiner ersten Sitzung wählt der Rat aus seiner Mitte für die Dauer der Wahlperiode die Bürgermeisterin oder den Bürgermeister. <sup>2</sup>Vorschlagsberechtigt für die Wahl ist nur eine Fraktion oder Gruppe, auf die mindestens ein Sitz im Verwaltungsausschuss entfällt. <sup>3</sup>Satz 2 gilt nicht, wenn der Rat beschlossen hat, dass kein Verwaltungsausschuss gebildet wird (§ 104 Satz 1).
+(1) <sup>1</sup>In seiner ersten Sitzung wählt der Rat aus seiner Mitte für die Dauer der Wahlperiode die Bürgermeisterin oder den Bürgermeister; gewählt werden kann nur, wer das 18. Lebensjahr vollendet hat. <sup>2</sup>Vorschlagsberechtigt für die Wahl ist nur eine Fraktion oder Gruppe, auf die mindestens ein Sitz im Verwaltungsausschuss entfällt. <sup>3</sup>Satz 2 gilt nicht, wenn der Rat beschlossen hat, dass kein Verwaltungsausschuss gebildet wird (§ 104 Satz 1).
 
 (2) <sup>1</sup>Die Bürgermeisterin oder der Bürgermeister ist ehrenamtlich tätig und mit Annahme der Wahl in das Ehrenbeamtenverhältnis berufen. <sup>2</sup>Sie oder er führt den Vorsitz im Rat. <sup>3</sup>Sie oder er führt nach dem Ende der Wahlperiode die Tätigkeit bis zur Neuwahl einer Bürgermeisterin oder eines Bürgermeisters fort.
 
@@ -1564,9 +1572,9 @@ der nachfolgenden allgemeinen Wahlperiode gebildet werden. <sup>2</sup>Der Zeitp
 
 <sup>2</sup>In diesem Fall werden die übrigen Aufgaben von der Samtgemeindebürgermeisterin oder dem Samtgemeindebürgermeister wahrgenommen, wenn sie oder er dazu bereit ist. <sup>3</sup>Anderenfalls bestimmt der Rat, dass die übrigen Aufgaben
 
-<dl><dt>1.</dt><dd><p>einem anderen Ratsmitglied,</p></dd><dt>2.</dt><dd><p>der allgemeinen Stellvertreterin oder dem allgemeinen Stellvertreter der Samtgemeindebürgermeisterin oder des Samtgemeindebürgermeisters oder</p></dd><dt>3.</dt><dd><p>einer oder einem Beschäftigten der Samtgemeinde</p></dd></dl>
+<dl><dt>1.</dt><dd><p>einem volljährigen anderen Ratsmitglied,</p></dd><dt>2.</dt><dd><p>der allgemeinen Stellvertreterin oder dem allgemeinen Stellvertreter der Samtgemeindebürgermeisterin oder des Samtgemeindebürgermeisters oder</p></dd><dt>3.</dt><dd><p>einer oder einem Beschäftigten der Samtgemeinde</p></dd></dl>
 
-übertragen werden. <sup>4</sup>Die Übertragung bedarf in den Fällen des Satzes 3 Nrn. 1 und 3 der Zustimmung der betroffenen Person. <sup>5</sup>Die mit den übrigen Aufgaben betraute Person ist in das Ehrenbeamtenverhältnis zu berufen und führt die Bezeichnung Gemeindedirektorin oder Gemeindedirektor, in Städten Stadtdirektorin oder Stadtdirektor. <sup>6</sup>Die für sie auszustellenden Urkunden werden von der Bürgermeisterin oder dem Bürgermeister und einem weiteren Ratsmitglied unterzeichnet. <sup>7</sup>Mit der Aushändigung der Urkunde endet das Ehrenbeamtenverhältnis der Bürgermeisterin oder des Bürgermeisters nach § 105 Abs. 2 Satz 1. <sup>8</sup>Der Rat beschließt, wer die Gemeindedirektorin oder den Gemeindedirektor vertritt. <sup>9</sup>Die Gemeindedirektorin oder der Gemeindedirektor gehört dem Verwaltungsausschuss mit beratender Stimme an. <sup>10</sup>Sie oder er führt nach dem Ende der Wahlperiode die Tätigkeit bis zur Neuwahl einer Bürgermeisterin oder eines Bürgermeisters fort.
+übertragen werden. <sup>4</sup>Die Übertragung bedarf in den Fällen des Satzes 3 Nrn. 1 und 3 der Zustimmung der betroffenen Person. <sup>5</sup>Die mit den übrigen Aufgaben betraute Person ist in das Ehrenbeamtenverhältnis zu berufen und führt die Bezeichnung Gemeindedirektorin oder Gemeindedirektor, in Städten Stadtdirektorin oder Stadtdirektor. <sup>6</sup>Die für sie auszustellenden Urkunden werden von der Bürgermeisterin oder dem Bürgermeister und einem weiteren Ratsmitglied unterzeichnet. <sup>7</sup>Mit der Aushändigung der Urkunde endet das Ehrenbeamtenverhältnis der Bürgermeisterin oder des Bürgermeisters nach § 105 Abs. 2 Satz 1. <sup>8</sup>Der Rat beschließt, wer die Gemeindedirektorin oder den Gemeindedirektor vertritt. <sup>9</sup>Die Stellvertretung der Gemeindedirektorin oder des Gemeindedirektors muss das 18. Lebensjahr vollendet haben. <sup>10</sup>Die Gemeindedirektorin oder der Gemeindedirektor gehört dem Verwaltungsausschuss mit beratender Stimme an. <sup>11</sup>Sie oder er führt nach dem Ende der Wahlperiode die Tätigkeit bis zur Neuwahl einer Bürgermeisterin oder eines Bürgermeisters fort.
 
 (2) <sup>1</sup>Die Gemeindedirektorin oder der Gemeindedirektor kann verlangen, dass ein bestimmter Beratungsgegenstand auf die Tagesordnung des Rates, eines seiner Ausschüsse oder des Verwaltungsausschusses gesetzt wird. <sup>2</sup>Sie oder er nimmt an den Sitzungen teil; im Übrigen gilt § 87 entsprechend.
 
@@ -2074,7 +2082,7 @@ haben sie dies zu begründen und die Begründung zu dokumentieren. <sup>2</sup>E
 
 #### § 138 NKomVG - Vertretung der Kommune in Unternehmen und Einrichtungen
 
-(1) <sup>1</sup>Die Vertreterinnen und Vertreter der Kommune in der Gesellschafterversammlung oder einem der Gesellschafterversammlung entsprechenden Organ von Eigengesellschaften oder von Unternehmen oder Einrichtungen, an denen die Kommune beteiligt ist, werden von der Vertretung gewählt. <sup>2</sup>Sie haben die Interessen der Kommune zu verfolgen und sind an die Beschlüsse der Vertretung und des Hauptausschusses gebunden. <sup>3</sup>Der Auftrag an sie kann jederzeit widerrufen werden.
+(1) <sup>1</sup>Die Vertreterinnen und Vertreter der Kommune in der Gesellschafterversammlung oder einem der Gesellschafterversammlung entsprechenden Organ von Eigengesellschaften oder von Unternehmen oder Einrichtungen, an denen die Kommune beteiligt ist, werden von der Vertretung gewählt, wobei eine Geschlechterparität anzustreben ist. <sup>2</sup>Sie haben die Interessen der Kommune zu verfolgen und sind an die Beschlüsse der Vertretung und des Hauptausschusses gebunden. <sup>3</sup>Der Auftrag an sie kann jederzeit widerrufen werden.
 
 (2) <sup>1</sup>Sind mehrere Vertreterinnen und Vertreter der Kommune zu benennen, so ist die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte zu berücksichtigen, es sei denn, dass sie oder er darauf verzichtet oder zur Geschäftsführerin oder zum Geschäftsführer der Gesellschaft bestellt ist. <sup>2</sup>Auf Vorschlag der Hauptverwaltungsbeamtin oder des Hauptverwaltungsbeamten kann an ihrer oder seiner Stelle eine andere Beschäftigte oder ein anderer Beschäftigter der Kommune benannt werden. <sup>3</sup>Nach Maßgabe des Gesellschaftsrechts kann sich die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte oder eine nach Satz 2 zur Vertretung der Kommune berechtigte Person durch andere Beschäftigte der Kommune vertreten lassen. <sup>4</sup>Ist die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte weder Vertreterin oder Vertreter der Kommune noch zur Geschäftsführerin oder zum Geschäftsführer der Gesellschaft bestellt und liegt auch kein Fall des Satzes 2 vor, so ist sie oder er, im Verhinderungsfall ihre oder seine Vertretung im Amt, nach Maßgabe des Gesellschaftsrechts berechtigt, beratend an den Sitzungen des Organs teilzunehmen. <sup>5</sup>Die Sätze 1 bis 4 gelten für die Gemeindedirektorin oder den Gemeindedirektor nach § 106 entsprechend.
 
@@ -2170,7 +2178,7 @@ haben sie dies zu begründen und die Begründung zu dokumentieren. <sup>2</sup>E
 
 (6) <sup>1</sup>Den Vorsitz im Verwaltungsrat führt die Hauptverwaltungsbeamtin oder der Hauptverwaltungsbeamte. <sup>2</sup>Mit ihrer oder seiner Zustimmung kann die Vertretung eine andere Person zum vorsitzenden Mitglied bestellen.
 
-(7) <sup>1</sup>Das vorsitzende Mitglied nach Absatz 6 Satz 2 und die übrigen Mitglieder des Verwaltungsrates werden von der Vertretung auf fünf Jahre bestellt. <sup>2</sup>Die Amtszeit von Mitgliedern des Verwaltungsrates, die der Vertretung angehören, endet mit dem Ablauf der Wahlzeit oder dem vorzeitigen Ausscheiden aus der Vertretung. <sup>3</sup>Die Unternehmenssatzung trifft Bestimmungen über die Abberufung von Mitgliedern des Verwaltungsrates und über die Amtsausübung bis zum Amtsantritt der neuen Mitglieder.
+(7) <sup>1</sup>Das vorsitzende Mitglied nach Absatz 6 Satz 2 und die übrigen Mitglieder des Verwaltungsrates werden von der Vertretung auf fünf Jahre bestellt, wobei eine Geschlechterparität anzustreben ist. <sup>2</sup>Die Amtszeit von Mitgliedern des Verwaltungsrates, die der Vertretung angehören, endet mit dem Ablauf der Wahlzeit oder dem vorzeitigen Ausscheiden aus der Vertretung. <sup>3</sup>Die Unternehmenssatzung trifft Bestimmungen über die Abberufung von Mitgliedern des Verwaltungsrates und über die Amtsausübung bis zum Amtsantritt der neuen Mitglieder.
 
 (8) Für die Tätigkeit von Abgeordneten als Mitglied im Verwaltungsrat gilt § 138 Abs. 6 und 7 entsprechend.
 
@@ -2358,7 +2366,7 @@ haben sie dies zu begründen und die Begründung zu dokumentieren. <sup>2</sup>E
 
 (3) Die Region Hannover nimmt die Aufgaben nach § 1 des Niedersächsischen Krankenhausgesetzes (NKHG) wahr.
 
-(4) <sup>1</sup>Die Region Hannover ist der örtliche Träger der öffentlichen Jugendhilfe, soweit dazu nicht regionsangehörige Gemeinden bestimmt worden sind. <sup>2</sup>Sie ist Träger zentraler Einrichtungen und Leistungsangebote auch für das Gebiet anderer örtlicher Träger der Jugendhilfe, soweit diese eine solche Aufgabenübernahme mit ihr vereinbart haben. <sup>3</sup>Sie ist ferner dafür zuständig, die Jugendhilfeplanung innerhalb der Region Hannover durch eine Rahmenplanung aufeinander abzustimmen, auch mit anerkannten Trägern der freien Jugendhilfe und mit der überörtlichen Planung. <sup>4</sup>Die Region Hannover ist auch zuständig für die Förderung der auf ihrer Ebene bestehenden Jugendverbände und ihrer Zusammenschlüsse. <sup>5</sup>Anderen örtlichen Trägern der öffentlichen Jugendhilfe gewährt sie auf Antrag einen angemessenen pauschalierten Kostenausgleich bis zu 80 Prozent der Personal- und Sachkosten für Leistungen nach den §§ 19, 21, 29 bis 35 a, 41 bis 43, 52, 55, 56, 59 und 90 Abs. 3 des Achten Buchs des Sozialgesetzbuchs (SGB VIII). <sup>6</sup>Voraussetzung dafür ist, dass diese Träger ihre Jugendhilfeplanung mit der Region Hannover abstimmen und ihr den Abschluss von Vereinbarungen nach § 78b SGB VIII übertragen. <sup>7</sup>Die Region Hannover kann die Sätze 5 und 6 auf weitere Aufgaben und Leistungen nach dem Achten Buch des Sozialgesetzbuchs anwenden.
+(4) <sup>1</sup>Die Region Hannover ist der örtliche Träger der öffentlichen Jugendhilfe, soweit dazu nicht regionsangehörige Gemeinden bestimmt worden sind. <sup>2</sup>Sie ist Träger zentraler Einrichtungen und Leistungsangebote auch für das Gebiet anderer örtlicher Träger der Jugendhilfe, soweit diese eine solche Aufgabenübernahme mit ihr vereinbart haben. <sup>3</sup>Sie ist ferner dafür zuständig, die Jugendhilfeplanung innerhalb der Region Hannover durch eine Rahmenplanung aufeinander abzustimmen, auch mit anerkannten Trägern der freien Jugendhilfe und mit der überörtlichen Planung. <sup>4</sup>Die Region Hannover ist auch zuständig für die Förderung der auf ihrer Ebene bestehenden Jugendverbände und ihrer Zusammenschlüsse. <sup>5</sup>Anderen örtlichen Trägern der öffentlichen Jugendhilfe gewährt sie auf Antrag einen angemessenen pauschalierten Kostenausgleich bis zu 80 Prozent der Personal- und Sachkosten für Leistungen nach den §§ 19, 21, 29 bis 35 a, 41 bis 43, 52, 55, 56, 59 und 90 Abs. 3 SGB VIII. <sup>6</sup>Voraussetzung dafür ist, dass diese Träger ihre Jugendhilfeplanung mit der Region Hannover abstimmen und ihr den Abschluss von Vereinbarungen nach § 78b SGB VIII übertragen. <sup>7</sup>Die Region Hannover kann die Sätze 5 und 6 auf weitere Aufgaben und Leistungen nach dem Achten Buch des Sozialgesetzbuchs anwenden.
 
 (5) <sup>1</sup>Die Region Hannover ist Träger der berufsbildenden Schulen, der Förderschulen mit Ausnahme der Förderschulen im Förderschwerpunkt Lernen, der Abendgymnasien, der Kollegs und der kommunalen Schullandheime. <sup>2</sup>Der Kreiselternrat (§ 97 des Niedersächsischen Schulgesetzes \- NSchG) wird unter der Bezeichnung Regionselternrat für das gesamte Gebiet der Region Hannover eingerichtet, der Kreisschülerrat (§ 82 NSchG) in gleicher Weise unter der Bezeichnung Regionsschülerrat. <sup>3</sup>§ 102 Abs. 3 bis 5 und die §§ 117 und 118 NSchG sind im gesamten Gebiet der Region Hannover nicht anzuwenden. <sup>4</sup>§ 103 NSchG ist mit der Maßgabe anzuwenden, dass die Region Hannover nach Ermessen entscheidet, ob sie die laufende Verwaltung einzelner ihrer Schulen überträgt.
 
@@ -2627,6 +2635,8 @@ um drei Personen erhöht. <sup>2</sup>Satz 1 gilt nur, soweit das Personal von M
 (5) <sup>1</sup>Ein Verstoß gegen § 11 Abs. 2 Satz 1 ist für eine vor dem 19. April 2018 verkündete Satzung unbeachtlich, wenn diese spätestens zum Zeitpunkt ihrer fehlerhaften Verkündung auf einer Internetseite der Kommune bereitgestellt worden ist und dort dauerhaft bereitgestellt wird; bei Mitgliedsgemeinden von Samtgemeinden genügt die Bereitstellung auf einer Internetseite der Samtgemeinde. <sup>2</sup>§ 11 Abs. 3 Sätze 5 und 6 Halbsatz 2 gilt entsprechend. <sup>3</sup>Die Sätze 1 und 2 gelten entsprechend für Verordnungen und öffentliche Bekanntmachungen der Kommunen nach diesem Gesetz sowie für die Erteilung von Genehmigungen für den Flächennutzungsplan.
 
 (6) <sup>1</sup>Ein Verstoß gegen § 11 Abs. 1 Satz 2 in Verbindung mit Abs. 4 Satz 1 oder 2 ist für eine bis zum 10. Februar 2024 verkündete Satzung unbeachtlich, wenn spätestens zum Zeitpunkt des Inkrafttretens dieser Satzung die Möglichkeit zur Kenntnisnahme von deren Inhalten durch Bereitstellung auf der eigenen Internetseite oder auf der Internetseite einer anderen Kommune bestand und weiterhin besteht und in der Hauptsatzung die Internetadresse angegeben ist, unter der das Verkündungsblatt eingesehen werden kann. <sup>2</sup>Satzungen kreisangehöriger Gemeinden, Samtgemeinden oder Mitgliedsgemeinden von Samtgemeinden, die in ihrer Hauptsatzung eine Verkündung nach § 11 Abs. 4 Satz 1 oder 2 vorgesehen haben, gelten auch bei einem Verstoß des Landkreises gegen § 11 Abs. 1 Satz 2 in Verbindung mit Abs. 4 Satz 1 oder 2 als ordnungsgemäß verkündet, wenn spätestens zum Zeitpunkt des Inkrafttretens dieser Satzung die Möglichkeit zur Kenntnisnahme von deren Inhalten durch Bereitstellung auf der Internetseite des Landkreises oder der Samtgemeinde bestand und weiterhin besteht.
+
+(7) <sup>1</sup>Für Wiederholungen von Wahlen (§ 42 NKWG) und die Nachholung von Wahlen (§ 41 NKWG) der Abgeordneten für die am 1. November 2026 beginnende Wahlperiode, bei denen nicht nach den Wahlvorschlägen der Hauptwahl gewählt wird, gilt für die Wählbarkeit der Abgeordneten weiterhin § 49 Abs. 1 Satz 1 Nr. 1 in der bis zum 31. Oktober 2026 geltenden Fassung. <sup>2</sup>Ist eine Direktwahl, deren Wahltag vor dem 1. November 2026 liegt, nach dem 31. Oktober 2026 gemäß § 45a in Verbindung mit § 42 NKWG oder § 45m NKWG zu wiederholen oder ist diese gemäß § 45n NKWG neu durchzuführen, so gilt für neue oder veränderte Wahlvorschläge weiterhin § 80 Abs. 4 Nr. 1 in der bis zum 31. Oktober 2026 geltenden Fassung.
 
 <a id="norm-d9759822169920428ccd"></a>
 

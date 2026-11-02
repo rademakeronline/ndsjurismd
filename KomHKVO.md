@@ -5,14 +5,14 @@ title: Verordnung über die Aufstellung und Ausführung des Haushaltsplans sowie
 abbreviation: KomHKVO
 jurisdiction: DE-NI
 document_type: regulation
-valid_from: '2025-02-01'
+valid_from: '2026-10-21'
 valid_until: null
 status: current
 validity_basis: source_interval
 source_provider: NI-VORIS
 source_format: html
-source_url: https://voris.wolterskluwer-online.de/browse/document/ecc2ae93-6cb3-38ca-ac50-98a65617c81b
-source_sha256: bafaba07cd24a6209c2de7a45662daf74d70280471890e3af711f55e3dd47bd8
+source_url: https://voris.wolterskluwer-online.de/browse/document/07cb7059-7fca-3b6b-af01-28ca0a85c4be
+source_sha256: 2a18a9687391e81542f847acfd28aab82d99afc0f7d17e58ba214eb71f1c1995
 source_hash_scope: normalized-units-v1
 ---
 
@@ -48,9 +48,11 @@ source_hash_scope: normalized-units-v1
 - [Dritter Abschnitt - Haushaltswirtschaftliche Instrumente](#norm-3befb10f4f2c2961038f)
   - [§ 21 KomHKVO - Steuerung](#norm-4f1487a6dfe7d56a48a7)
   - [§ 22 KomHKVO - Liquiditätsplanung](#norm-256b8e2f2f2d612fb310)
-- [Vierter Abschnitt - Dauernde Leistungsfähigkeit, Deckung von Fehlbeträgen](#norm-a5cdf815b77435b7e2c9)
+- [Vierter Abschnitt - Dauernde Leistungsfähigkeit, Deckung von Fehlbeträgen, Haushaltssicherung](#norm-79fc41cf7d73a5444df9)
   - [§ 23 KomHKVO - Dauernde Leistungsfähigkeit](#norm-99d81aad79f1dd575014)
   - [§ 24 KomHKVO - Deckung von Fehlbeträgen](#norm-df010539209ef22746d7)
+  - [§ 24a KomHKVO - Haushaltssicherungskonzept](#norm-f07e9351af4256792988)
+  - [§ 24b KomHKVO - Haushaltssicherungsbericht](#norm-3e5da900e864196732b8)
 - [Fünfter Abschnitt - Weitere Vorschriften für die Haushaltswirtschaft](#norm-95cee8f831a2a1159e81)
   - [§ 25 KomHKVO - Bewirtschaftung der Erträge und Einzahlungen](#norm-1a222256cc52460f34a6)
   - [§ 26 KomHKVO - Annahme und Vermittlung von Zuwendungen](#norm-dafae13510754a8d3e19)
@@ -103,7 +105,7 @@ source_hash_scope: normalized-units-v1
 
 Vom 18. April 2017 (Nds. GVBl. S. 130 - VORIS 20300 -)
 
-Zuletzt geändert durch Artikel 2 des Gesetzes vom 29. Januar 2025 (Nds. GVBl. 2025 Nr. 3)
+Zuletzt geändert durch Verordnung vom 19. Oktober 2026 (Nds. GVBl. 2026 Nr. 91)
 
 <a id="norm-37a68df1f32fa077cdc1"></a>
 
@@ -369,9 +371,9 @@ Im Vorbericht oder im Haushaltsplan werden mindestens erläutert
 
 Die Kommune steuert ihre Zahlungsfähigkeit durch eine Liquiditätsplanung.
 
-<a id="norm-a5cdf815b77435b7e2c9"></a>
+<a id="norm-79fc41cf7d73a5444df9"></a>
 
-## Vierter Abschnitt - Dauernde Leistungsfähigkeit, Deckung von Fehlbeträgen
+## Vierter Abschnitt - Dauernde Leistungsfähigkeit, Deckung von Fehlbeträgen, Haushaltssicherung
 
 <a id="norm-99d81aad79f1dd575014"></a>
 
@@ -394,6 +396,32 @@ Die Kommune steuert ihre Zahlungsfähigkeit durch eine Liquiditätsplanung.
 (3) <sup>1</sup>Ein Fehlbetrag des außerordentlichen Ergebnisses wird aus der mit Überschüssen des außerordentlichen Ergebnisses gebildeten Rücklage gedeckt. <sup>2</sup>Soweit dies nicht möglich ist, wird ein Fehlbetrag mit einem Überschuss des ordentlichen Ergebnisses oder aus der mit Überschüssen des ordentlichen Ergebnisses gebildeten Rücklage gedeckt, soweit diese nicht zum Ausgleich des ordentlichen Ergebnisses benötigt wird. <sup>3</sup>Ist der Fehlbetrag so nicht auszugleichen, findet Absatz 2 entsprechende Anwendung.
 
 (4) Die Verrechnung von Überschüssen mit Sollfehlbeträgen aus dem letzten kameralen Abschluss geht einer Deckung von Fehlbeträgen nach Absatz 2 Satz 2 und Absatz 3 Satz 2 vor.
+
+<a id="norm-f07e9351af4256792988"></a>
+
+### § 24a KomHKVO - Haushaltssicherungskonzept
+
+(1) <sup>1</sup>Die Festlegungen des Haushaltssicherungskonzepts nach § 110 Abs. 8 Satz 2 NKomVG sind auf der Grundlage einer Analyse der Ursachen für die Verpflichtung zur Aufstellung des Haushaltssibischerungskonzepts zu treffen. <sup>2</sup>Das Haushaltssicherungskonzept muss Maßnahmen enthalten, die insgesamt geeignet sind,
+
+<dl><dt>1.</dt><dd><p>im Fall eines nicht erreichten Haushaltsausgleichs den Haushaltsausgleich innerhalb des von der Kommune festgelegten Zeitraums zu erreichen,</p></dd><dt>2.</dt><dd><p>im Fall einer Überschuldung die Überschuldung innerhalb des von der Kommune festgelegten Zeitraums zu beseitigen oder</p></dd><dt>3.</dt><dd><p>im Fall einer drohenden Überschuldung den Eintritt einer Überschuldung im Zeitraum der mittelfristigen Ergebnis- und Finanzplanung abzuwenden.</p></dd></dl>
+
+(2) <sup>1</sup>Für eine Maßnahme nach Absatz 1 Satz 2 sind zu bestimmen:
+
+<dl><dt>1.</dt><dd><p>die Zeitpunkte, an denen die Maßnahme begonnen wird und vollständig umgesetzt sein soll,</p></dd><dt>2.</dt><dd><p>die Umsetzungsmethode und</p></dd><dt>3.</dt><dd><p>der durch die Maßnahme im Haushaltsjahr der Aufstellung sowie in jedem Haushaltsjahr des von der Kommune festgelegten Zeitraums voraussichtlich zu erzielende Betrag, der sich als Differenz zwischen dem bisher im Haushaltsplan für das Haushaltsjahr vorgesehenen Haushaltsansatz und dem durch die Maßnahme des Haushaltssicherungskonzepts veränderten Haushaltsansatz für das Haushaltsjahr ergibt (Konsolidierungsbetrag).</p></dd></dl>
+
+<sup>2</sup>Zusätzlich ist die Summe der durch die Maßnahmen voraussichtlich zu erzielenden Konsolidierungsbeträge je Haushaltsjahr zu bestimmen.
+
+(3) <sup>1</sup>Abweichend von Absatz 1 Satz 2 kann anstelle einer Maßnahme auch ein Betrag bestimmt werden, dessen Einsparung im Haushaltsjahr zur Haushaltssicherung aufgrund einer pauschalen Kürzung in einem Produktbereich zu erwarten ist (Konsolidierungspauschale). <sup>2</sup>Der Gesamtbetrag der Konsolidierungspauschalen darf je Haushaltsjahr drei Prozent der Summe der ordentlichen Aufwendungen nicht überschreiten.
+
+(4) <sup>1</sup>War im Jahr der Aufstellung des Haushaltsplans bereits für das Vorjahr ein Haushaltssicherungskonzept aufgestellt, so muss das neu aufzustellende Haushaltssicherungskonzept zusätzliche Maßnahmen enthalten. <sup>2</sup>Hat die Kommune in vier unmittelbar aufeinander folgenden Haushaltsjahren alle ihr möglichen Maßnahmen zur Haushaltskonsolidierung genutzt, dennoch einen Haushaltsausgleich nicht erreicht und liegt weder ein Fall der Überschuldung noch der drohenden Überschuldung vor, so kann sie im fünften Haushaltsjahr mit Zustimmung der Kommunalaufsichtsbehörde von der Festlegung neuer Maßnahmen absehen. <sup>3</sup>Satz 2 gilt für die Folgejahre entsprechend.
+
+<a id="norm-3e5da900e864196732b8"></a>
+
+### § 24b KomHKVO - Haushaltssicherungsbericht
+
+<sup>1</sup>Im Haushaltssicherungsbericht ist die Umsetzung der Haushaltssicherungskonzepte getrennt nach den unmittelbar aufeinander folgenden Haushaltsjahren darzustellen, für die bis zum Zeitpunkt des Berichts ununterbrochen ein Haushaltssicherungskonzept aufzustellen war. <sup>2</sup>Er muss insbesondere folgende Angaben enthalten:
+
+<dl><dt>1.</dt><dd><p>die umgesetzten Maßnahmen,</p></dd><dt>2.</dt><dd><p>den durch die jeweilige Maßnahme erzielten Konsolidierungsbetrag und</p></dd><dt>3.</dt><dd><p>die Summe aller im Haushaltsjahr erzielten Konsolidierungsbeträge.</p></dd></dl>
 
 <a id="norm-95cee8f831a2a1159e81"></a>
 

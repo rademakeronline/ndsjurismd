@@ -5,14 +5,14 @@ title: Niedersächsisches Polizei- und Ordnungsbehördengesetz
 abbreviation: NPOG
 jurisdiction: DE-NI
 document_type: law
-valid_from: '2022-10-01'
+valid_from: '2025-03-01'
 valid_until: null
 status: current
 validity_basis: source_interval
 source_provider: NI-VORIS
 source_format: html
-source_url: https://voris.wolterskluwer-online.de/browse/document/6397c30a-a372-35db-8e92-694ba015c7c9
-source_sha256: 0cc11801cc026b479dd81776a7db1a83307526ba5b3097c4e2b796211a4db535
+source_url: https://voris.wolterskluwer-online.de/browse/document/1ef59d89-c81d-36bb-999e-697559f8b204
+source_sha256: dca82a30694e7fb46517a33e0949a79add6815864ef410d09bbee9432af20fc9
 source_hash_scope: normalized-units-v1
 ---
 
@@ -181,7 +181,7 @@ source_hash_scope: normalized-units-v1
 
 In der Fassung der Bekanntmachung vom 19. Januar 2005 (Nds. GVBl. S. 9 - VORIS 21011 10 00 00 000 -)
 
-Zuletzt geändert durch Artikel 3 des Gesetzes vom 22. September 2022 (Nds. GVBl. S. 589)
+Zuletzt geändert durch Artikel 3 des Gesetzes vom 7. Oktober 2026 (Nds. GVBl. 2026 Nr. 90)
 
 <a id="norm-b4d6299a3796b26917d2"></a>
 
@@ -1613,9 +1613,9 @@ Für Ansprüche auf Schadensausgleich ist der ordentliche Rechtsweg, für die An
 
 (1) Es werden die Polizeidirektionen Braunschweig, Göttingen, Hannover, Lüneburg, Oldenburg und Osnabrück eingerichtet.
 
-(2) Die Bezirke werden wie folgt abgegrenzt:
+(2) Die Bezirke der Polizeidirektionen werden wie folgt abgegrenzt:
 
-<dl><dt>1.</dt><dd><p>Die Polizeidirektion Braunschweig umfasst das Gebiet der Landkreise Gifhorn, Goslar, Helmstedt, Peine, Wolfenbüttel, der kreisfreien Städte Braunschweig, Salzgitter und Wolfsburg.</p></dd><dt>2.</dt><dd><p>Die Polizeidirektion Göttingen umfasst das Gebiet der Landkreise Göttingen, Hameln-Pyrmont, Hildesheim, Holzminden, Nienburg (Weser), Northeim, Schaumburg.</p></dd><dt>3.</dt><dd><p>Die Polizeidirektion Hannover umfasst das Gebiet der Region Hannover.</p></dd><dt>4.</dt><dd><p>Die Polizeidirektion Lüneburg umfasst das Gebiet der Landkreise Celle, Harburg, Heidekreis, Lüchow-Dannenberg, Lüneburg, Rotenburg (Wümme), Stade, Uelzen sowie das Gebiet östlich der Linie, die in der als <strong>Anlage</strong> zu diesem Gesetz beigefügten Karte im Küstengewässer eingezeichnet ist und die Bezirke der Polizeidirektion Oldenburg und der Polizeidirektion Lüneburg trennt. Die Karte ist insoweit verbindlich.</p></dd><dt>5.</dt><dd><p>Die Polizeidirektion Oldenburg umfasst das Gebiet der Landkreise Ammerland, Cloppenburg, Cuxhaven, Diepholz, Friesland, Oldenburg, Osterholz, Vechta, Verden, Wesermarsch sowie der kreisfreien Städte Delmenhorst, Oldenburg (Oldenburg), Wilhelmshaven sowie das Gebiet zwischen den beiden Linien, die in der als Anlage zu diesem Gesetz beigefügten Karte im Küstengewässer eingezeichnet sind und die Bezirke der Polizeidirektionen Lüneburg, Oldenburg und Osnabrück begrenzen. Die Karte ist insoweit verbindlich.</p></dd><dt>6.</dt><dd><p>Die Polizeidirektion Osnabrück umfasst das Gebiet der Landkreise Aurich, Grafschaft Bentheim, Emsland, Leer, Osnabrück, Wittmund sowie der kreisfreien Städte Emden, Osnabrück sowie das Gebiet westlich der Linie, die in der als Anlage zu diesem Gesetz beigefügten Karte im Küstengewässer eingezeichnet ist und insoweit die Bezirke der Polizeidirektion Oldenburg und der Polizeidirektion Osnabrück trennt. Die Karte ist insoweit verbindlich.</p></dd></dl>
+<dl><dt>1.</dt><dd><p>Die Polizeidirektion Braunschweig umfasst das Gebiet der Landkreise Gifhorn, Goslar, Helmstedt, Peine und Wolfenbüttel sowie das Gebiet der kreisfreien Städte Braunschweig, Salzgitter und Wolfsburg.</p></dd><dt>2.</dt><dd><p>Die Polizeidirektion Göttingen umfasst das Gebiet der Landkreise Göttingen, Hameln-Pyrmont, Hildesheim, Holzminden, Nienburg (Weser), Northeim und Schaumburg.</p></dd><dt>3.</dt><dd><p>Die Polizeidirektion Hannover umfasst das Gebiet der Region Hannover.</p></dd><dt>4.</dt><dd><p>Die Polizeidirektion Lüneburg umfasst das Gebiet der Landkreise Celle, Harburg, Heidekreis, Lüchow-Dannenberg, Lüneburg, Rotenburg (Wümme), Stade und Uelzen sowie das Gebiet im Küstengewässer östlich der Ostemündung.</p></dd><dt>5.</dt><dd><p>Die Polizeidirektion Oldenburg umfasst das Gebiet der Landkreise Ammerland, Cloppenburg, Cuxhaven, Diepholz, Friesland, Oldenburg, Osterholz, Vechta, Verden und Wesermarsch, das Gebiet der kreisfreien Städte Delmenhorst, Oldenburg (Oldb) und Wilhelmshaven sowie das Gebiet im Küstengewässer östlich der in der als <strong>Anlage</strong> zu diesem Gesetz beigefügten Karte im Küstengewässer eingezeichneten Linie zwischen den Inseln Spiekeroog und Wangerooge bis zur Ostemündung.</p></dd><dt>6.</dt><dd><p>Die Polizeidirektion Osnabrück umfasst das Gebiet der Landkreise Aurich, Grafschaft Bentheim, Emsland, Leer, Osnabrück, Wittmund, das Gebiet der kreisfreien Städte Emden und Osnabrück sowie das Gebiet im Küstengewässer westlich der in der als Anlage zu diesem Gesetz beigefügten Karte im Küstengewässer eingezeichneten Linie zwischen den Inseln Spiekeroog und Wangerooge.</p></dd></dl>
 
 <a id="norm-e7d0e593effddef8e0e5"></a>
 

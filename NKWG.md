@@ -5,14 +5,14 @@ title: Niedersächsisches Kommunalwahlgesetz
 abbreviation: NKWG
 jurisdiction: DE-NI
 document_type: law
-valid_from: '2026-05-07'
-valid_until: '2026-10-31'
+valid_from: '2026-11-01'
+valid_until: null
 status: current
 validity_basis: source_interval
 source_provider: NI-VORIS
 source_format: html
-source_url: https://voris.wolterskluwer-online.de/browse/document/1b3bb413-6773-3264-964f-eb17ef81a397
-source_sha256: 24debe31bd219c44bf1a3c6a5094ed8ebffc992bda059676dbc741db8e20a525
+source_url: https://voris.wolterskluwer-online.de/browse/document/9e0ccbec-5c81-3914-9776-2d04d20c8ac7
+source_sha256: 4fb6faddb3ae257694c75af03d288189e07f57586059f1c285ab147eb43f18bd
 source_hash_scope: normalized-units-v1
 ---
 
@@ -126,7 +126,7 @@ source_hash_scope: normalized-units-v1
 
 In der Fassung der Bekanntmachung vom 28. Januar 2014 (Nds. GVBl. S. 35 - VORIS 20330 01 00 00 000 -)
 
-Zuletzt geändert durch Artikel 1 des Gesetzes vom 28. April 2026 (Nds. GVBl. 2026 Nr. 30)
+Zuletzt geändert durch Artikel 2 des Gesetzes vom 9. September 2026 (Nds. GVBl. 2026 Nr. 77)
 
 <a id="norm-41df4e3619c618e0a07c"></a>
 
@@ -764,7 +764,7 @@ nicht durchgeführt worden ist.
 
 <dl><dt>1.</dt><dd><p>Ersatzperson eines Wahlvorschlages dieser Partei oder Teilorganisation ist oder</p></dd><dt>2.</dt><dd><p>der Partei oder Teilorganisation im Zeitpunkt der Verkündung der Entscheidung des Bundesverfassungsgerichts angehört hat.</p></dd></dl>
 
-(4) <sup>1</sup>Ist für die Partei oder Wählergruppe im Wahlgebiet keine Ersatzperson mehr vorhanden, so bleibt der Sitz bis zum Ablauf der Wahlperiode unbesetzt. <sup>2</sup>Das Gleiche gilt, wenn eine Einzelbewerberin oder ein Einzelbewerber die Wahl ablehnt oder stirbt oder ihren oder seinen Sitz verliert.
+(4) <sup>1</sup>Ist für die Partei oder Wählergruppe im Wahlgebiet keine Ersatzperson mehr vorhanden, so wird der Sitz erneut der gewählten Bewerberin oder dem gewählten Bewerber zugeteilt. <sup>2</sup>Lehnt diese oder dieser den Sitz erneut ab oder ist sie oder er verstorben, so geht der Sitz erneut nach Maßgabe des § 38 auf die nächste Ersatzperson über; die Absätze 2 und 3 gelten entsprechend. <sup>3</sup>Ist auch nach nochmaliger Berücksichtigung aller Ersatzpersonen in der in § 38 vorgesehenen Reihenfolge ein Übergang des Sitzes nicht möglich, so bleibt der Sitz bis zum Ablauf der Wahlperiode unbesetzt. <sup>4</sup>Der Sitz bleibt bis zum Ablauf der Wahlperiode auch dann unbesetzt, wenn eine Einzelbewerberin oder ein Einzelbewerber die Wahl ablehnt oder stirbt oder ihren oder seinen Sitz verliert.
 
 (5) <sup>1</sup>Die Feststellung nach den Absätzen 1 bis 4 trifft der Wahlausschuss. <sup>2</sup>Sie kann durch die Wahlleitung allein erfolgen, wenn Zweifel über die zu treffende Feststellung nicht bestehen.
 
@@ -774,7 +774,7 @@ nicht durchgeführt worden ist.
 
 #### § 45 NKWG - Ausscheiden von Ersatzpersonen
 
-(1) <sup>1</sup>Lehnt eine Ersatzperson die Annahme eines Sitzes ab, so scheidet sie als Ersatzperson für die Wahlperiode aus. <sup>2</sup>Das Gleiche gilt in Fällen des § 44 Abs. 2 und 3.
+(1) <sup>1</sup>Lehnt eine Ersatzperson die Annahme eines nach § 44 Abs. 1 Satz 1 übergegangenen Sitzes ab, so scheidet sie als Ersatzperson aus, solange noch weitere Ersatzpersonen nach Maßgabe des § 38 nachrangig zu berücksichtigen sind. <sup>2</sup>In den Fällen des § 44 Abs. 2 und 3 scheidet die Person als Ersatzperson für die gesamte Wahlperiode aus.
 
 (2) <sup>1</sup>Eine Ersatzperson kann jederzeit auf die ihr als Ersatzperson zustehenden Rechte verzichten. <sup>2</sup>Sie scheidet damit als Ersatzperson für die Wahlperiode aus. <sup>3</sup>Der Verzicht ist der Wahlleitung schriftlich zu erklären und kann nicht widerrufen werden.
 

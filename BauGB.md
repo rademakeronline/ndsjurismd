@@ -12,7 +12,7 @@ validity_basis: provider_current_consolidation; effective_date_not_supplied
 source_provider: Gesetze im Internet
 source_format: xml
 source_url: https://www.gesetze-im-internet.de/bbaug/xml.zip
-source_sha256: 3fdfb3eab74797c65106c2f2d18f1d1c86299f9597beb4fddc7056c748765831
+source_sha256: f784795783a6bfcb57ad3459f4feeba9c4f0e7f3e840f6b8baa19183ae36ef69
 source_hash_scope: gii-c14n-without-builddate-v1
 source_document_id: BJNR003410960
 issued_on: '1960-06-23'
@@ -291,8 +291,8 @@ future_versions: not_provided_by_source
     - [§ 192 Gutachterausschuss](#norm-4b8289e273cd0aa51536)
     - [§ 193 Aufgaben des Gutachterausschusses](#norm-333e5ec5ec901d9cc413)
     - [§ 194 Verkehrswert](#norm-6b2162be94ec7881e4c4)
-    - [§ 195 Kaufpreissammlung](#norm-aaa558dd0d7dd21539d9)
-    - [§ 196 Bodenrichtwerte](#norm-0688863dee8fc31d286d)
+    - [§ 195 Kaufpreissammlung](#norm-ae5a5793ab69d126dd9e)
+    - [§ 196 Bodenrichtwerte](#norm-32d4fb3e691f0fdf8a87)
     - [§ 197 Befugnisse des Gutachterausschusses](#norm-37297e075e007a377cf5)
     - [§ 198 Oberer Gutachterausschuss](#norm-61a89b36be2488f6f411)
     - [§ 199 Ermächtigungen](#norm-1214446799514653bfa3)
@@ -3535,17 +3535,25 @@ Die erforderlichen Daten im Sinne der Sätze 1 und 2 sind den zuständigen Finan
 
 Der Verkehrswert (Marktwert) wird durch den Preis bestimmt, der in dem Zeitpunkt, auf den sich die Ermittlung bezieht, im gewöhnlichen Geschäftsverkehr nach den rechtlichen Gegebenheiten und tatsächlichen Eigenschaften, der sonstigen Beschaffenheit und der Lage des Grundstücks oder des sonstigen Gegenstands der Wertermittlung ohne Rücksicht auf ungewöhnliche oder persönliche Verhältnisse zu erzielen wäre.
 
-<a id="norm-aaa558dd0d7dd21539d9"></a>
+<a id="norm-ae5a5793ab69d126dd9e"></a>
 
 #### § 195 Kaufpreissammlung
 
 (1) Zur Führung der Kaufpreissammlung ist jeder Vertrag, durch den sich jemand verpflichtet, Eigentum an einem Grundstück gegen Entgelt, auch im Wege des Tausches, zu übertragen oder ein Erbbaurecht erstmals oder erneut zu bestellen, von der beurkundenden Stelle in Abschrift dem Gutachterausschuss zu übersenden. Dies gilt auch für das Angebot und die Annahme eines Vertrags, wenn diese getrennt beurkundet werden, sowie entsprechend für die Einigung vor einer Enteignungsbehörde, den Enteignungsbeschluss, den Beschluss über die Vorwegnahme einer Entscheidung im Umlegungsverfahren, den Beschluss über die Aufstellung eines Umlegungsplans, den Beschluss über eine vereinfachte Umlegung und für den Zuschlag in einem Zwangsversteigerungsverfahren.
 
-(2) Die Kaufpreissammlung darf nur dem zuständigen Finanzamt für Zwecke der Besteuerung übermittelt werden. Vorschriften, nach denen Urkunden oder Akten den Gerichten oder Staatsanwaltschaften vorzulegen sind, bleiben unberührt.
+(2) Zur Führung und Auswertung der Kaufpreissammlung sind diejenigen, die einen Vertrag im Sinne von Absatz 1 Satz 1 schließen oder ein Angebot oder eine Annahme im Sinne von Absatz 1 Satz 2 erklären, verpflichtet, dem Gutachterausschuss auf dessen Aufforderung hin die erforderlichen Daten über das betroffene Grundstück mitzuteilen. Insbesondere gehören zu den erforderlichen Daten im Sinne von Satz 1 in der Regel folgende Daten:
 
-(3) Auskünfte aus der Kaufpreissammlung sind bei berechtigtem Interesse nach Maßgabe landesrechtlicher Vorschriften zu erteilen (§ 199 Absatz 2 Nummer 4).
+<dl><dt>1.</dt><dd><p>die Gemarkung, die Flur und die Flurstücksnummer, soweit im Grundbuch aufgeführt,</p></dd><dt>2.</dt><dd><p>die Lagemerkmale,</p></dd><dt>3.</dt><dd><p>die tatsächliche und die zukünftig geplante Nutzung,</p></dd><dt>4.</dt><dd><p>bei ganz oder teilweise vermieteten oder verpachteten Grundstücken die Erträge,</p></dd><dt>5.</dt><dd><p>bei bebauten Grundstücken: <dl><dt>a)</dt><dd><p>die Arten der baulichen Anlagen,</p></dd><dt>b)</dt><dd><p>das Baujahr sowie das Jahr und der Umfang durchgeführter Modernisierungsmaßnahmen,</p></dd><dt>c)</dt><dd><p>die Wohn- und die Nutzfläche,</p></dd><dt>d)</dt><dd><p>die Ausstattung und die Qualität der baulichen Anlagen,</p></dd><dt>e)</dt><dd><p>die Daten des Energieausweises zur Energieeffizienz des Gebäudes,</p></dd><dt>f)</dt><dd><p>die Absicht, die baulichen Anlagen abzureißen,</p></dd></dl></p></dd><dt>6.</dt><dd><p>bei landwirtschaftlichen Grundstücken die Angabe, ob die Mitteilungsverpflichteten Landwirte sind,</p></dd><dt>7.</dt><dd><p>bei forstwirtschaftlichen Grundstücken Angaben zum Bestand,</p></dd><dt>8.</dt><dd><p>das mitverkaufte Zubehör, soweit nicht im Kaufvertrag benannt,</p></dd><dt>9.</dt><dd><p>bei Erbbaurechten und bei mit Erbbaurechten belasteten Grundstücken der Erbbauzins und die Laufzeit des Erbbaurechts.</p></dd></dl>
 
-<a id="norm-0688863dee8fc31d286d"></a>
+Liegen den Mitteilungsverpflichteten keine exakten Angaben vor, so ist eine Schätzung ausreichend. Die Schätzung ist als solche zu kennzeichnen. Für die Mitteilung sind die vom Gutachterausschuss zur Verfügung gestellten Mitteilungsmöglichkeiten zu nutzen.
+
+(3) Der Gutachterausschuss muss die Mitteilungsverpflichteten bei der Aufforderung zur Mitteilung auf ihre sich aus Absatz 2 ergebenden Pflichten hinweisen und ihnen in geeigneter Weise Informationen zum Bedeutungsgehalt der angeforderten Daten zugänglich machen.
+
+(4) Die Kaufpreissammlung darf nur dem zuständigen Finanzamt für Zwecke der Besteuerung übermittelt werden. Vorschriften, nach denen Urkunden oder Akten den Gerichten oder Staatsanwaltschaften vorzulegen sind, bleiben unberührt.
+
+(5) Auskünfte aus der Kaufpreissammlung sind bei berechtigtem Interesse nach Maßgabe landesrechtlicher Vorschriften zu erteilen (§ 199 Absatz 2 Nummer 4).
+
+<a id="norm-32d4fb3e691f0fdf8a87"></a>
 
 #### § 196 Bodenrichtwerte
 
@@ -3553,7 +3561,7 @@ Der Verkehrswert (Marktwert) wird durch den Preis bestimmt, der in dem Zeitpunkt
 
 (2) Hat sich in einem Gebiet die Qualität des Bodens durch einen Bebauungsplan oder andere Maßnahmen geändert, sind bei der nächsten Fortschreibung der Bodenrichtwerte auf der Grundlage der geänderten Qualität auch Bodenrichtwerte bezogen auf die Wertverhältnisse zum Zeitpunkt der letzten Hauptfeststellung oder dem letzten sonstigen Feststellungszeitpunkt für steuerliche Zwecke zu ermitteln. Die Ermittlung kann unterbleiben, wenn das zuständige Finanzamt darauf verzichtet.
 
-(3) Die Bodenrichtwerte sind zu veröffentlichen und dem zuständigen Finanzamt mitzuteilen. Jedermann kann von der Geschäftsstelle Auskunft über die Bodenrichtwerte verlangen.
+(3) Die Bodenrichtwerte sind zu veröffentlichen und nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch an die zuständigen Finanzbehörden zu übermitteln. Jedermann kann von der Geschäftsstelle Auskunft über die Bodenrichtwerte verlangen.
 
 <a id="norm-37297e075e007a377cf5"></a>
 
